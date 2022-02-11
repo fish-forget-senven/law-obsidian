@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           },
           "pinned": true
@@ -21,6 +21,7 @@
       {
         "id": "db9debdf4b0326f9",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "media-view",
           "state": {
@@ -30,8 +31,9 @@
               "src": "file:///D:/BaiduNetdiskDownload/%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA5.mp4#t=10657.039727",
               "hash": "#t=10657.039727"
             },
-            "currentTime": 10672.560886
-          }
+            "currentTime": 10709.521698
+          },
+          "pinned": true
         },
         "group": "6d29a6894043a10f"
       }
@@ -60,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:(汇编 民商) block:()",
+                "query": "path:(汇编 民商) block:(一千一百七十九)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -106,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务.md"
+              }
             }
           },
           {
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -188,14 +194,14 @@
     "width": 273,
     "collapsed": true
   },
-  "active": "db9debdf4b0326f9",
+  "active": "b851afad96426152",
   "lastOpenFiles": [
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务.md",
+    "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
     "法律问题/无权代理效力待定期间的迟延给付.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
     "法律法规汇编/民商法/民法典/第一编 总则.md",
     "法律法规汇编/民商法/民法典/第二编 物权.md",
-    "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民法之调整对象.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民法学习概论.md",
