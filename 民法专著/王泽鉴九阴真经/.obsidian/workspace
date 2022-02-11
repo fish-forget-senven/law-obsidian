@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "4b358686dcc9a001",
+    "type": "split",
+    "children": [
+      {
+        "id": "d967361fc0b47e7b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "归责原则.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a134f1886d282261",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "归责原则.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5b566237be4be98",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ebc5894dd26fc72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54ca07de119ad1c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d557748b97a3b858",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249
+  },
+  "right": {
+    "id": "c3c91ba4092ade73",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cfd5e105ccfae0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "026361a437a4dd3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "归责原则.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5b347fab39185fe3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "归责原则.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d967361fc0b47e7b",
+  "lastOpenFiles": [
+    "归责原则.md",
+    "过失责任.md",
+    "王泽鉴 侵权行为/违法性.md",
+    "王泽鉴 侵权行为/受保护的权益.md",
+    "王泽鉴 侵权行为/因果关系.md",
+    "王泽鉴 侵权行为/行为.md",
+    "王泽鉴 侵权行为/侵权行为体系.md",
+    "王泽鉴 侵权行为/填补损害.md",
+    "第一编 绪 论.md",
+    "侵权行为的意义、类型及侵权责任.md"
+  ]
+}

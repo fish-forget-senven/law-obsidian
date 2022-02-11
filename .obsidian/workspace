@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "4087d80d9894ac17",
+    "type": "split",
+    "children": [
+      {
+        "id": "b851afad96426152",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务.md",
+            "mode": "preview",
+            "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "a27e8140d4df62ce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "法律问题/无权代理效力待定期间的迟延给付.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3d3233e0b7e7e15",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe46e04926b1bb2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b57a777019d28a35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b451999623e4aaf7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:(汇编 民商) block:(五百八十四)",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "602b748b3bf46892",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd234484bff39612",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 199
+  },
+  "right": {
+    "id": "7653655aa5d8a80a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdf78d33261074eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e385b4da021a63f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "法律问题/无权代理效力待定期间的迟延给付.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1024581bbf09e76f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "法律问题/无权代理效力待定期间的迟延给付.md"
+              }
+            }
+          },
+          {
+            "id": "e456ff14910d3580",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "法律问题/无权代理效力待定期间的迟延给付.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0dbeef596f24bd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be6057bc4725cd03",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f67a5940aaf5c84b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8453b92464ecb31c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acbdb3c37dcee969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "华政初试倒计时.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273,
+    "collapsed": true
+  },
+  "active": "a27e8140d4df62ce",
+  "lastOpenFiles": [
+    "法律问题/无权代理效力待定期间的迟延给付.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务.md",
+    "法律法规汇编/民商法/民法典/第三编 合同.md",
+    "法律法规汇编/民商法/民法典/第一编 总则.md",
+    "法律法规汇编/民商法/民法典/第二编 物权.md",
+    "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民法之调整对象.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民法学习概论.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/乔丹诉乔丹系列案件：文字商标与姓名权.md"
+  ]
+}

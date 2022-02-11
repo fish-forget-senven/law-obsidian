@@ -1,0 +1,29 @@
+{
+  "searches": [
+    {
+      "tags": [],
+      "query": "https://www.ldoceonline.com/dictionary/{{query}}",
+      "name": "朗文词典",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://fanyi.baidu.com/?aldtype=85#en/zh/{{query}}",
+      "name": "百度翻译",
+      "encode": true
+    },
+    {
+      "name": "百度百科",
+      "query": "https://baike.baidu.com/item/{{query}}",
+      "tags": [],
+      "encode": true
+    },
+    {
+      "name": "百度",
+      "query": "https://www.baidu.com/s?wd={{query}}",
+      "tags": [],
+      "encode": true
+    }
+  ],
+  "useIframe": true
+}
