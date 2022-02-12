@@ -31,7 +31,7 @@
               "src": "file:///D:/BaiduNetdiskDownload/%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA5.mp4#t=10657.039727",
               "hash": "#t=10657.039727"
             },
-            "currentTime": 11511.137455
+            "currentTime": 11688.291242
           },
           "pinned": true
         },
@@ -191,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 273,
+    "collapsed": true
   },
   "active": "049c436224afc572",
   "lastOpenFiles": [
