@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "049c436224afc572",
+        "id": "deb98fc833418c0c",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -15,27 +15,7 @@
             "source": false
           },
           "pinned": true
-        },
-        "group": "f46e4a7cd8283674"
-      },
-      {
-        "id": "efd9ebbaf0d27338",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "type": "video",
-              "filename": "民法总论5.mp4",
-              "src": "file:///D:/BaiduNetdiskDownload/%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA5.mp4#t=10657.039727",
-              "hash": "#t=10657.039727"
-            },
-            "currentTime": 13653.126035
-          },
-          "pinned": true
-        },
-        "group": "f46e4a7cd8283674"
+        }
       }
     ],
     "direction": "vertical"
@@ -62,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:(汇编 民商) block:(一百五十七)",
+                "query": "证明损害是因受害人故意造成的，不承担责任”并",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,12 +68,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 199,
-    "collapsed": true
+    "width": 199
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -195,17 +174,17 @@
     "width": 273,
     "collapsed": true
   },
-  "active": "049c436224afc572",
+  "active": "deb98fc833418c0c",
   "lastOpenFiles": [
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务.md",
+    "课堂笔记/民法笔记/金可可民法/附件/基础知识：侵权责任之归责原则.md",
+    "法律问题/无权代理效力待定期间的迟延给付.md",
+    "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民法之调整对象.md",
     "法律法规汇编/民商法/民法典/第一编 总则.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
-    "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
     "课堂笔记/民法笔记/金可可民法/附件/附录：法条类型概览.md",
     "README.md",
-    "法律问题/无权代理效力待定期间的迟延给付.md",
-    "法律法规汇编/民商法/民法典/第二编 物权.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民法之调整对象.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md"
+    "法律法规汇编/民商法/民法典/第二编 物权.md"
   ]
 }

@@ -5,9 +5,11 @@
   "foldHeading": true,
   "newFileLocation": "current",
   "defaultViewMode": "preview",
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "legacyEditor": false,
   "livePreview": true,
   "showLineNumber": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "foldIndent": true,
+  "autoPairBrackets": true
 }
