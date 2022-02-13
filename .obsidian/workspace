@@ -11,11 +11,31 @@
           "type": "markdown",
           "state": {
             "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           },
           "pinned": true
-        }
+        },
+        "group": "2034953b665560b4"
+      },
+      {
+        "id": "fb016d49a92f78a2",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "type": "video",
+              "filename": "民法总论6.mp4",
+              "src": "file:///D:/BaiduNetdiskDownload/%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA6.mp4#t=3749.069289",
+              "hash": "#t=3749.069289"
+            },
+            "currentTime": 4944.743917
+          },
+          "pinned": true
+        },
+        "group": "2034953b665560b4"
       }
     ],
     "direction": "vertical"
@@ -42,11 +62,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:(汇编 民商) block:(二百三十五)",
+                "query": "path:(金可可) block:(原物返还 让与)",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "byCreatedTimeReverse"
               }
             }
@@ -72,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 199
+    "width": 188
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -148,8 +168,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8453b92464ecb31c",
@@ -177,14 +196,14 @@
   "active": "b577809721c62a7c",
   "lastOpenFiles": [
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务.md",
+    "课堂笔记/民法笔记/金可可民法/附件/基础知识：原物返还请求权之要件.md",
+    "课堂笔记/民法笔记/金可可民法/附件/基础知识：物上、准物上请求权之体系.md",
     "法律法规汇编/民商法/民法典/第二编 物权.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
     "课堂笔记/民法笔记/金可可民法/附件/法条竞合图示.md",
     "课堂笔记/民法笔记/金可可民法/附件/附录：法条类型概览.md",
     "民法专著/韩世远合同法总论（第四版）/合同的订立/要约.md",
     "民法专著/韩世远合同法总论（第四版）/合同的分类/双务合同与单务合同.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
-    "民法专著/韩世远合同法总论（第四版）/合同的订立/依要约承诺以外的方式成立合同.md",
-    "法律问题/资产证券化与担保问题.md"
+    "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md"
   ]
 }
