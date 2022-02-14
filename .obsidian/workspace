@@ -15,25 +15,19 @@
             "source": false
           },
           "pinned": true
-        },
-        "group": "1fbf94aff6ecd656"
+        }
       },
       {
-        "id": "73eeb103e3a15834",
+        "id": "f5a8f42a210ecbff",
         "type": "leaf",
         "state": {
-          "type": "media-view",
+          "type": "markdown",
           "state": {
-            "info": {
-              "type": "video",
-              "filename": "民法总论6.mp4",
-              "src": "file:///D:/BaiduNetdiskDownload/%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA6.mp4#t=8886.331885",
-              "hash": "#t=8886.331885"
-            },
-            "currentTime": 9059.516408
+            "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一章 民事权利及相关现象.md",
+            "mode": "preview",
+            "source": false
           }
-        },
-        "group": "1fbf94aff6ecd656"
+        }
       }
     ],
     "direction": "vertical"
@@ -60,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:金可可 line:(买受)",
+                "query": "path:金可可 line:(闭合规定)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -85,7 +79,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -192,17 +187,17 @@
     "width": 273,
     "collapsed": true
   },
-  "active": "b577809721c62a7c",
+  "active": "f5a8f42a210ecbff",
   "lastOpenFiles": [
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一章 民事权利及相关现象.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
+    "课堂笔记/民法笔记/金可可民法/附件/未命名.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二章 民事义务与责任.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/民事权利与义务.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
     "法律法规汇编/民商法/民法典/第二编 物权.md",
     "课堂笔记/民法笔记/金可可民法/附件/法条竞合图示.md",
     "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民法之调整对象.md",
-    "课堂笔记/民法笔记/金可可民法/附件/附录：法条类型概览.md"
+    "课堂笔记/民法笔记/金可可民法/民法总则/民法之调整对象.md"
   ]
 }
