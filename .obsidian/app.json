@@ -6,7 +6,7 @@
   "newFileLocation": "current",
   "defaultViewMode": "preview",
   "showFrontmatter": false,
-  "legacyEditor": false,
+  "legacyEditor": true,
   "livePreview": true,
   "showLineNumber": true,
   "readableLineLength": false,
