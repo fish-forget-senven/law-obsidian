@@ -7,10 +7,18 @@
       "key": "6"
     }
   ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
   "workspace:toggle-pin": [
     {
       "modifiers": [
-        "Shift"
+        "Alt"
       ],
       "key": "B"
     }
