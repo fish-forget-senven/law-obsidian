@@ -4,17 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5fa2eeb7cdb1cc01",
+        "id": "0ce8f78905aaf569",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -42,11 +36,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:汇编 line:(一百四十四)",
+                "query": "line:(选择竞合)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "byCreatedTimeReverse"
               }
             }
@@ -67,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 183,
-    "collapsed": true
+    "width": 177
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -89,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +96,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -157,17 +145,17 @@
     "width": 239,
     "collapsed": true
   },
-  "active": "5fa2eeb7cdb1cc01",
+  "active": "0ce8f78905aaf569",
   "lastOpenFiles": [
+    "法律问题/期待权之原物返还请求权.md",
+    "法律问题/资产证券化与担保问题.md",
+    "关于养猫/训猫法.md",
+    "法律问题/资产证券化（ABS）.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
-    "法律法规汇编/民商法/民法典/第一编 总则.md",
+    "民法专著/韩世远合同法总论（第四版）/合同的分类/双务合同与单务合同.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
-    "课堂笔记/民法笔记/金可可民法/附件/法条竞合图示.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一章 民事权利及相关现象.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第三节 民事权利之行使、限制及其保护.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一节 民事权利概述.md",
-    "民法专著/王泽鉴九阴真经/侵权行为/第一编 绪论/侵权行为法的体系/侵权行为与契约.md",
-    "民法专著/王泽鉴九阴真经/侵权行为/第一编 绪论/侵权行为法的体系/410条.md"
+    "法律法规汇编/民商法/民法典/第一编 总则.md",
+    "法律法规汇编/中华人民共和国律师法.md",
+    "法律法规汇编/律师执业管理办法.md"
   ]
 }
