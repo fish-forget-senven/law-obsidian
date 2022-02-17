@@ -4,11 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ce8f78905aaf569",
+        "id": "0f5da312e5b0740c",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
         }
       }
     ],
@@ -36,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(选择竞合)",
+                "query": "path:(汇编) block:(九百二十六)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,11 +67,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 177
+    "width": 177,
+    "collapsed": true
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -81,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md"
+              }
             }
           },
           {
@@ -105,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,17 +157,17 @@
     "width": 239,
     "collapsed": true
   },
-  "active": "0ce8f78905aaf569",
+  "active": "0f5da312e5b0740c",
   "lastOpenFiles": [
-    "法律问题/期待权之原物返还请求权.md",
-    "法律问题/资产证券化与担保问题.md",
-    "关于养猫/训猫法.md",
-    "法律问题/资产证券化（ABS）.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
-    "民法专著/韩世远合同法总论（第四版）/合同的分类/双务合同与单务合同.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
+    "民法专著/王泽鉴九阴真经/民法总则/权利的变动/意思表示不自由.md",
+    "民法专著/王泽鉴九阴真经/民法总则/法律关系与权利体系/请求权、抗辩权及形成权.md",
+    "民法专著/王泽鉴九阴真经/民法总则/权利的变动/意思与表示不一致.md",
+    "民法专著/王泽鉴九阴真经/侵权行为/第二编 一般侵权行为/民法第184条第1项后段—故意以悖于善良风俗之方法加损害于他人/案例分析（悖于善良风俗）.md",
     "法律法规汇编/民商法/民法典/第一编 总则.md",
-    "法律法规汇编/中华人民共和国律师法.md",
-    "法律法规汇编/律师执业管理办法.md"
+    "民法专著/韩世远合同法总论（第四版）/合同的效力/合同的效力概述.md",
+    "民法专著/韩世远合同法总论（第四版）/合同的订立/合同成立的时间与地点.md",
+    "法律问题/期待权之原物返还请求权.md"
   ]
 }
