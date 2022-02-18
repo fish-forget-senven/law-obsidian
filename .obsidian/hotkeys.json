@@ -22,5 +22,14 @@
       ],
       "key": "B"
     }
-  ]
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "X"
+    }
+  ],
+  "file-explorer:new-file-in-new-pane": []
 }
