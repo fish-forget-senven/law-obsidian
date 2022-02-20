@@ -4,39 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3c37754c39165f1f",
+        "id": "cc98f1b58b5f6992",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          },
-          "pinned": true
-        },
-        "group": "1dc3a44a60d54a78"
-      },
-      {
-        "id": "639a75136c3454b6",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "type": "video",
-              "filename": "民法总论8.mp4",
-              "src": "file:///D:/BaiduNetdiskDownload/%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA8.mp4#t=1861.893576",
-              "hash": "#t=1861.893576"
-            },
-            "currentTime": 2269.216239
-          },
-          "pinned": true
-        },
-        "group": "1dc3a44a60d54a78"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -110,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md"
-              }
+              "state": {}
             }
           },
           {
@@ -137,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +147,7 @@
     "width": 239,
     "collapsed": true
   },
-  "active": "3c37754c39165f1f",
+  "active": "cc98f1b58b5f6992",
   "lastOpenFiles": [
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
