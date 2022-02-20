@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4ab4ec304341818d",
+        "id": "3c37754c39165f1f",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -16,7 +16,27 @@
             "source": false
           },
           "pinned": true
-        }
+        },
+        "group": "1dc3a44a60d54a78"
+      },
+      {
+        "id": "639a75136c3454b6",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "type": "video",
+              "filename": "民法总论8.mp4",
+              "src": "file:///D:/BaiduNetdiskDownload/%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA8.mp4#t=1861.893576",
+              "hash": "#t=1861.893576"
+            },
+            "currentTime": 2269.216239
+          },
+          "pinned": true
+        },
+        "group": "1dc3a44a60d54a78"
       }
     ],
     "direction": "vertical"
@@ -43,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(抵销 例外)",
+                "query": "path:(汇编 民法典) line:(五百八十二)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -69,11 +89,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 181
+    "width": 181,
+    "collapsed": true
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -157,17 +178,17 @@
     "width": 239,
     "collapsed": true
   },
-  "active": "4ab4ec304341818d",
+  "active": "3c37754c39165f1f",
   "lastOpenFiles": [
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
-    "民法专著/韩世远合同法总论（第四版）/合同与合同法概述/合同概述.md",
-    "未命名.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一节 民事权利概述.md",
-    "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
-    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于审理民事案件适用诉讼时效制度若干问题的规定(2021.1.1).md",
-    "法律法规汇编/民商法/民法典/第一编 总则.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民法之调整对象.md"
+    "法律法规汇编/民商法/证券、基金/上市公司证券发行管理办法.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第三节 民事权利之行使、限制及其保护.md",
+    "法律问题/无权代理效力待定期间的迟延给付.md",
+    "民法专著/王泽鉴九阴真经/民法总则/权利的变动/行为能力.md",
+    "民法专著/王泽鉴九阴真经/民法总则/权利的变动/法律行为.md",
+    "民法专著/王泽鉴九阴真经/民法总则/代理/无权代理.md",
+    "法律法规汇编/民商法/相关会议文件/全国法院民商事审判工作会议纪要（九民纪要）.md",
+    "法律法规汇编/民商法/民法典/第二编 物权.md"
   ]
 }
