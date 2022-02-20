@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cc98f1b58b5f6992",
+        "id": "564da812f046fdb8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:(汇编 民法典) line:(五百八十二)",
+                "query": "path:课堂笔记 line:(微波炉)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md"
+              }
             }
           },
           {
@@ -106,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -146,17 +155,17 @@
     "width": 239,
     "collapsed": true
   },
-  "active": "cc98f1b58b5f6992",
+  "active": "564da812f046fdb8",
   "lastOpenFiles": [
+    "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md",
+    "法律法规汇编/民商法/民法典/第二编 物权.md",
+    "法律法规汇编/民商法/民法典/第一编 总则.md",
+    "法律法规汇编/民商法/商法/中华人民共和国企业破产法.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
+    "法律法规汇编/民商法/民法典/第五编 婚姻家庭.md",
+    "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
     "法律法规汇编/民商法/证券、基金/上市公司证券发行管理办法.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第三节 民事权利之行使、限制及其保护.md",
-    "法律问题/无权代理效力待定期间的迟延给付.md",
-    "民法专著/王泽鉴九阴真经/民法总则/权利的变动/行为能力.md",
-    "民法专著/王泽鉴九阴真经/民法总则/权利的变动/法律行为.md",
-    "民法专著/王泽鉴九阴真经/民法总则/代理/无权代理.md",
-    "法律法规汇编/民商法/相关会议文件/全国法院民商事审判工作会议纪要（九民纪要）.md",
-    "法律法规汇编/民商法/民法典/第二编 物权.md"
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第三节 民事权利之行使、限制及其保护.md"
   ]
 }
