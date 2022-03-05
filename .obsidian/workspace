@@ -11,11 +11,31 @@
           "type": "markdown",
           "state": {
             "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/八、债权与物权.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false
           },
           "pinned": true
-        }
+        },
+        "group": "f39e90876a05c68c"
+      },
+      {
+        "id": "dd5106d30f44e642",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "type": "video",
+              "filename": "民法总论9.mp4",
+              "src": "file:///D:/BaiduNetdiskDownload/%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA9.mp4#t=18190.861577",
+              "hash": "#t=18190.861577"
+            },
+            "currentTime": 18225.062504
+          },
+          "pinned": true
+        },
+        "group": "f39e90876a05c68c"
       }
     ],
     "direction": "vertical"
