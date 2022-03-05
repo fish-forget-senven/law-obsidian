@@ -11,31 +11,11 @@
           "type": "markdown",
           "state": {
             "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/八、债权与物权.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false
           },
           "pinned": true
-        },
-        "group": "f39e90876a05c68c"
-      },
-      {
-        "id": "dd5106d30f44e642",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "type": "video",
-              "filename": "民法总论9.mp4",
-              "src": "file:///D:/BaiduNetdiskDownload/%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA9.mp4#t=18190.861577",
-              "hash": "#t=18190.861577"
-            },
-            "currentTime": 18225.062504
-          },
-          "pinned": true
-        },
-        "group": "f39e90876a05c68c"
+        }
       }
     ],
     "direction": "vertical"
@@ -62,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:可可 line:(追及)",
+                "query": "path:可可 line:(母权)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 176,
-    "collapsed": true
+    "width": 176
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -170,7 +149,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "8e3ca144349157f9",
@@ -199,13 +178,13 @@
   "lastOpenFiles": [
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/八、债权与物权.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/（二）请求权.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/五、既得权、期待权（是否已具备全部要件）.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
     "课堂笔记/民法笔记/金可可民法/附件/基础知识：原物返还请求权之要件.md",
     "民法专著/王泽鉴九阴真经/民法总则/权利的变动/总论（权利的变动）.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民法学习概论.md",
     "课堂笔记/民法笔记/金可可民法/附件/加工所致物权变动规则：学说.md",
     "法律法规汇编/民商法/民法典/第二编 物权.md",
-    "法律法规汇编/民商法/民法典/第三编 合同.md",
-    "课堂笔记/民法笔记/金可可民法/附件/基础知识：物上、准物上请求权之体系.md",
-    "民法专著/韩世远合同法总论（第四版）/合同的分类/要式合同与不要式合同.md"
+    "法律法规汇编/民商法/民法典/第三编 合同.md"
   ]
 }
