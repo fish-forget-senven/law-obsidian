@@ -4,38 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "3cd1eb4df5516c73",
+        "id": "9087819ee26b2cf4",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/一、民事权利的行使.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false
           },
           "pinned": true
-        },
-        "group": "5fee3ef703f68879"
+        }
       },
       {
-        "id": "41a1a91115aa7a31",
+        "id": "23ae0f90c7ffdbe1",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "media-view",
+          "type": "markdown",
           "state": {
-            "info": {
-              "type": "video",
-              "filename": "民法总论10.mp4",
-              "src": "file:///D:/BaiduNetdiskDownload/%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA10.mp4#t=715.418287",
-              "hash": "#t=715.418287"
-            },
-            "currentTime": 752.355129
-          },
-          "pinned": true
-        },
-        "group": "5fee3ef703f68879"
+            "file": "装卷记录/商贸学院仲裁（撤回裁决）2021 芜仲字第340号.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -62,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " line:(无过错 但是)",
+                "query": "path:(可可) line:(除斥期间)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/一、民事权利的行使.md",
+                "file": "装卷记录/商贸学院仲裁（撤回裁决）2021 芜仲字第340号.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/一、民事权利的行使.md"
+                "file": "装卷记录/商贸学院仲裁（撤回裁决）2021 芜仲字第340号.md"
               }
             }
           },
@@ -134,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/一、民事权利的行使.md",
+                "file": "装卷记录/商贸学院仲裁（撤回裁决）2021 芜仲字第340号.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -193,17 +185,17 @@
     "width": 209,
     "collapsed": true
   },
-  "active": "3cd1eb4df5516c73",
+  "active": "23ae0f90c7ffdbe1",
   "lastOpenFiles": [
+    "装卷记录/商贸学院仲裁（撤回裁决）2021 芜仲字第340号.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/一、民事权利的行使.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第三节 民事权利之行使、限制及其保护.md",
-    "课堂笔记/民法笔记/金可可民法/附件/基础知识：侵权责任之归责原则.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/五、既得权、期待权（是否已具备全部要件）.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/七、原权、救济权（依权利的原生与派生关系）.md",
-    "markdown语法/mermaid从入门到入土.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/八、债权与物权.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/（四）形成权.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/（二）请求权.md",
-    "法律问题/资产证券化（ABS）.md",
-    "华政初试倒计时.md"
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第三节 民事权利之行使、限制及其保护.md",
+    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于审理建设工程施工合同纠纷案件适用法律问题的解释（一）（2021.1.1）.md",
+    "法律法规汇编/民商法/民法典/第三编 合同.md",
+    "实习指导文件/代理词/未命名.md",
+    "WPS操作技巧/word软件介绍.md",
+    "实习指导文件/装卷/卷宗归档顺序.md"
   ]
 }
