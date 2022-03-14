@@ -4,50 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc70d1a03c8d968",
+        "id": "f6a4d921b56a5241",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/二、民事权利的保护.md",
-            "mode": "source",
-            "backlinks": false
-          },
-          "pinned": true
-        },
-        "group": "0307d9a85a8b790e"
-      },
-      {
-        "id": "bfe7899c9f15b8c5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二章 民事义务与责任.md",
+            "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一节 民事义务及相关现象.md",
             "mode": "preview",
             "backlinks": false
-          }
-        }
-      },
-      {
-        "id": "d7b628fdf5b8e46b",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "type": "video",
-              "filename": "民法总论10.mp4",
-              "src": "file:///D:/BaiduNetdiskDownload/%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA10.mp4#t=8492.077128",
-              "hash": "#t=8492.077128"
-            },
-            "currentTime": 9217.208703
           },
           "pinned": true
-        },
-        "group": "0307d9a85a8b790e"
+        }
       }
     ],
     "direction": "vertical"
@@ -74,7 +42,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(紧急避险 物)",
+                "query": "line:(侵权 停止侵害)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 166
+    "width": 166,
+    "collapsed": true
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -119,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二章 民事义务与责任.md",
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一节 民事义务及相关现象.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二章 民事义务与责任.md"
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一节 民事义务及相关现象.md"
               }
             }
           },
@@ -146,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二章 民事义务与责任.md",
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一节 民事义务及相关现象.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -205,17 +174,17 @@
     "width": 244,
     "collapsed": true
   },
-  "active": "bfe7899c9f15b8c5",
+  "active": "f6a4d921b56a5241",
   "lastOpenFiles": [
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二章 民事义务与责任.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一章 民事权利及相关现象.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/二、民事权利的保护.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/一、民事权利的行使.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一节 民事义务及相关现象.md",
+    "装卷记录/商贸学院仲裁（撤回裁决）2021 芜仲字第340号.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/（二）请求权.md",
-    "民法专著/王泽鉴九阴真经/民法总则/权利的变动/法律行为.md",
-    "实习指导文件/代理词/商贸学院监理服务案一审代理词.md",
-    "法律法规汇编/民商法/民法典/第一编 总则.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二章 民事义务与责任.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第三节 民事权利之行使、限制及其保护.md"
+    "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/（一）支配权.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/二、民事权利的保护.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/未命名.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一章 民事权利及相关现象.md"
   ]
 }
