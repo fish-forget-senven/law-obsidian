@@ -12,7 +12,7 @@
 
 -   实例：朱元璋家谱简图，圆圈代表皇帝。
 
-``` 
+``` mermaid
 graph LR
 emperor((朱八八))-.子.->朱五四-.子.->朱四九-.子.->朱百六
 
@@ -220,7 +220,7 @@ graph
 
 -   子图：需要将`graph`关键字改为`flowchart`，在代码段的开始加入`subgraph`，尾部加入`end`
 
-```text
+```mermaid
 flowchart TB
     c1-->a2
     subgraph one
