@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "6e0ce756c92111bc",
+        "id": "cda7be0209e42602",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/权利变动之分类.md",
+            "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/法律关系（权利）变动之原因：法律事实.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
           }
+        }
+      },
+      {
+        "id": "212e343ef00d2dc4",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "type": "video",
+              "filename": "民法总论11.mp4",
+              "src": "file:///D:/BaiduNetdiskDownload/%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA11.mp4#t=9197.936213",
+              "hash": "#t=9197.936213"
+            },
+            "currentTime": 10095.588524
+          },
+          "pinned": true
         }
       }
     ],
@@ -41,11 +59,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(抵押权 优先受偿) path:可可",
+                "query": "path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse"
               }
             }
@@ -66,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/权利变动之分类.md",
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/法律关系（权利）变动之原因：法律事实.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/权利变动之分类.md"
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/法律关系（权利）变动之原因：法律事实.md"
               }
             }
           },
@@ -114,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/权利变动之分类.md",
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/法律关系（权利）变动之原因：法律事实.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,17 +191,17 @@
     "width": 244,
     "collapsed": true
   },
-  "active": "6e0ce756c92111bc",
+  "active": "cda7be0209e42602",
   "lastOpenFiles": [
+    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/法律关系（权利）变动之原因：法律事实.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/权利变动之分类.md",
-    "法律问题/抵押权之代位性.md",
-    "法律问题/抵押登记期限经过影响不动产抵押权嘛？.md",
-    "法律法规汇编/诉讼法/中华人民共和国民事诉讼法.md",
-    "法律法规汇编/民商法/民法典/第二编 物权.md",
-    "法律法规汇编/民商法/民法典/第六编 继承.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/（四）形成权.md",
+    "法律常用网站/账号、密码、网站等.md",
+    "实习指导文件/装卷/卷宗归档顺序.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/（二）请求权.md",
-    "法律法规汇编/民商法/民法典/第三编 合同.md",
-    "民法论文/刘家安/«民法典»抵押物转让规则的体系解读———以第406条为中心.md"
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一节 民事权利概述.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
+    "实习指导文件/各类文件模板.md",
+    "实习指导文件/杂活.md",
+    "实习指导文件/实习申请事项.md"
   ]
 }
