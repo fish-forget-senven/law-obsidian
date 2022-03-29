@@ -18,15 +18,11 @@
         }
       },
       {
-        "id": "c054246fe11c6835",
+        "id": "535e0896de5d588b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "markdown语法/mermaid从入门到入土.md",
-            "mode": "preview",
-            "backlinks": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "markdown语法/mermaid从入门到入土.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "markdown语法/mermaid从入门到入土.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "markdown语法/mermaid从入门到入土.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -186,10 +178,10 @@
     "width": 244,
     "collapsed": true
   },
-  "active": "c054246fe11c6835",
+  "active": "535e0896de5d588b",
   "lastOpenFiles": [
-    "markdown语法/mermaid从入门到入土.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/法律关系（权利）变动之原因：法律事实.md",
+    "markdown语法/mermaid从入门到入土.md",
     "民法专著/王泽鉴九阴真经/侵权行为/附件/民法第184条第1项前段与后段不同.md",
     "民法专著/王泽鉴九阴真经/侵权行为/附件/归责原则的动态发展过程.md",
     "民法专著/王泽鉴九阴真经/侵权行为/第二编 一般侵权行为/民法第184条第1项前段—故意或过失不法侵害他人之权利/损害.md",
