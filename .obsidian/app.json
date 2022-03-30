@@ -7,7 +7,7 @@
   "defaultViewMode": "preview",
   "showFrontmatter": false,
   "legacyEditor": true,
-  "livePreview": true,
+  "livePreview": false,
   "showLineNumber": true,
   "readableLineLength": false,
   "foldIndent": true,
