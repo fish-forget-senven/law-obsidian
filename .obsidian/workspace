@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a7a7e74078595bc7",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/法律关系（权利）变动之原因：法律事实.md",
-            "mode": "preview",
-            "backlinks": false
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "dd8bcfd9936346dc",
+        "id": "552b461d398b519d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "法律法规汇编/诉讼法/中华人民共和国民事诉讼法.md",
+            "file": "法律常用网站/账号、密码、网站等.md",
             "mode": "preview",
-            "backlinks": false
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -54,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:(法律 汇编 民事诉讼) block:(撤销 仲裁)",
+                "query": "第一百五十三条",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "法律法规汇编/诉讼法/中华人民共和国民事诉讼法.md",
+                "file": "法律常用网站/账号、密码、网站等.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "法律法规汇编/诉讼法/中华人民共和国民事诉讼法.md"
+                "file": "法律常用网站/账号、密码、网站等.md"
               }
             }
           },
@@ -127,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "法律法规汇编/诉讼法/中华人民共和国民事诉讼法.md",
+                "file": "法律常用网站/账号、密码、网站等.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +161,8 @@
               "state": {
                 "file": "华政初试倒计时.md",
                 "mode": "preview",
-                "backlinks": false
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -183,20 +170,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
-  "active": "dd8bcfd9936346dc",
+  "active": "552b461d398b519d",
   "lastOpenFiles": [
-    "法律法规汇编/诉讼法/中华人民共和国民事诉讼法.md",
-    "法律常用网站/实习.md",
     "法律常用网站/账号、密码、网站等.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/法律关系（权利）变动之原因：法律事实.md",
+    "法律法规汇编/民商法/民法典/第一编 总则.md",
+    "法律法规汇编/民商法/民法典/第三编 合同.md",
+    "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一节 民事权利概述.md",
+    "法律法规汇编/诉讼法/中华人民共和国民事诉讼法.md",
+    "实习指导文件/实习.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/（二）请求权.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/八、债权与物权.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/五、既得权、期待权（是否已具备全部要件）.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/三、绝对权、相对权（按义务人之范围）.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第二节 民事权利之分类.md"
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/八、债权与物权.md"
   ]
 }
