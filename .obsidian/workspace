@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           },
@@ -19,7 +19,7 @@
         }
       },
       {
-        "id": "b4f2bab9fd42b4dc",
+        "id": "a4c97e5af1642ce6",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:(法律 汇编 邮政) block:()",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,13 +76,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 171,
-    "collapsed": true
+    "width": 171
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -98,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述.md"
-              }
+              "state": {}
             }
           },
           {
@@ -125,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -182,20 +176,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
-  "active": "bbd190560478cde9",
+  "active": "a4c97e5af1642ce6",
   "lastOpenFiles": [
+    "法律法规汇编/民商法/民法典/第一编 总则.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述.md",
-    "法律法规汇编/民商法/中华人民共和国邮政法.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
-    "法律法规汇编/民商法/证券、基金/上市公司证券发行管理办法.md",
-    "法律法规汇编/行政法/中华人民共和国电信条例.md",
-    "法律法规汇编/中华人民共和国医师法.md",
-    "法律法规汇编/行政法/机动车交通事故责任强制保险条例.md",
     "法律法规汇编/民商法/民法典/第二编 物权.md",
-    "法律问题/牛黄归属案.md",
-    "法律法规汇编/民商法/机动车交通事故责任强制保险.md"
+    "法律法规汇编/劳动法/中华人民共和国劳动法.md",
+    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于审理医疗损害责任纠纷案件适用法律若干问题的解释(2021.1.1).md",
+    "法律法规汇编/劳动法/中华人民共和国劳动合同法.md",
+    "法律法规汇编/民商法/民法典/第五编 婚姻家庭.md",
+    "法律法规汇编/民商法/知识产权法/中华人民共和国专利法.md",
+    "法律法规汇编/民商法/中华人民共和国邮政法.md"
   ]
 }
