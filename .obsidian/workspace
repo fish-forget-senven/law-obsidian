@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": false,
             "source": false
           },
@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述.md"
+              }
             }
           },
           {
@@ -122,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +185,7 @@
     "width": 244,
     "collapsed": true
   },
-  "active": "b4f2bab9fd42b4dc",
+  "active": "bbd190560478cde9",
   "lastOpenFiles": [
     "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述.md",
     "法律法规汇编/民商法/中华人民共和国邮政法.md",
