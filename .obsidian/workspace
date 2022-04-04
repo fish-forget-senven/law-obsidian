@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "790e31d1a52173ee",
+        "id": "bbd190560478cde9",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -12,21 +12,18 @@
           "state": {
             "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述.md",
             "mode": "preview",
-            "backlinks": false
+            "backlinks": false,
+            "source": false
           },
           "pinned": true
         }
       },
       {
-        "id": "1a33831e014858e5",
+        "id": "b4f2bab9fd42b4dc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "法律法规汇编/民商法/中华人民共和国电力法.md",
-            "mode": "preview",
-            "backlinks": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -54,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:(法律 汇编 邮政) block:()",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,11 +76,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 171
+    "width": 171,
+    "collapsed": true
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -99,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "法律法规汇编/民商法/中华人民共和国电力法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "法律法规汇编/民商法/中华人民共和国电力法.md"
-              }
+              "state": {}
             }
           },
           {
@@ -126,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "法律法规汇编/民商法/中华人民共和国电力法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +169,8 @@
               "state": {
                 "file": "华政初试倒计时.md",
                 "mode": "preview",
-                "backlinks": false
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -185,17 +181,17 @@
     "width": 244,
     "collapsed": true
   },
-  "active": "1a33831e014858e5",
+  "active": "b4f2bab9fd42b4dc",
   "lastOpenFiles": [
-    "法律法规汇编/民商法/中华人民共和国电力法.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述.md",
     "法律法规汇编/民商法/中华人民共和国邮政法.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
-    "法律法规汇编/民商法/民法典/第一编 总则.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/法律关系（权利）变动之原因：法律事实.md",
+    "法律法规汇编/民商法/证券、基金/上市公司证券发行管理办法.md",
+    "法律法规汇编/行政法/中华人民共和国电信条例.md",
+    "法律法规汇编/中华人民共和国医师法.md",
+    "法律法规汇编/行政法/机动车交通事故责任强制保险条例.md",
     "法律法规汇编/民商法/民法典/第二编 物权.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/权利变动之分类.md",
-    "课堂笔记/民法笔记/金可可民法/附件/加工所致物权变动规则：学说.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律关系之变动与法律事实/法律关系之变动与权利之变动.md"
+    "法律问题/牛黄归属案.md",
+    "法律法规汇编/民商法/机动车交通事故责任强制保险.md"
   ]
 }
