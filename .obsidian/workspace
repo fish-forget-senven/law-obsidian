@@ -68,13 +68,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 193,
-    "collapsed": true
+    "width": 193
   },
   "right": {
     "id": "7653655aa5d8a80a",
