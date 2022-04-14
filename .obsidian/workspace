@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3d8929d79a124a5b",
+        "id": "01c0f0aacfb762ea",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为之分类：负担行为与处分行为.md",
+            "file": "法律法规汇编/劳动法/中华人民共和国劳动法.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
-          },
-          "pinned": true
-        },
-        "group": "189f038f0689cbd2"
-      },
-      {
-        "id": "56c23c411e543907",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "type": "video",
-              "filename": "\\BaiduNetdiskDownload\\民法总论13.mp4",
-              "src": "file:///D:/%5CBaiduNetdiskDownload%5C%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA13.mp4",
-              "hash": ""
-            },
-            "currentTime": 3249.027137
-          },
-          "pinned": true
-        },
-        "group": "189f038f0689cbd2"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:(可可 ) line:(债权 侵权)",
+                "query": "path:(汇编 劳动) line:(起诉 裁决)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -93,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 193
+    "width": 494
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -109,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为之分类：负担行为与处分行为.md",
+                "file": "法律法规汇编/劳动法/中华人民共和国劳动法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为之分类：负担行为与处分行为.md"
+                "file": "法律法规汇编/劳动法/中华人民共和国劳动法.md"
               }
             }
           },
@@ -136,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为之分类：负担行为与处分行为.md",
+                "file": "法律法规汇编/劳动法/中华人民共和国劳动法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -196,17 +174,17 @@
     "width": 244,
     "collapsed": true
   },
-  "active": "3d8929d79a124a5b",
+  "active": "01c0f0aacfb762ea",
   "lastOpenFiles": [
+    "法律法规汇编/劳动法/中华人民共和国劳动法.md",
+    "法律法规汇编/劳动法/最高人民法院关于审理劳动争议案件适用法律问题的解释（一）（2021.1.1）.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/财产行为、非财产行为（亲属行为、继承行为）.md",
+    "法律法规汇编/民商法/民法典/第一编 总则.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为之分类：负担行为与处分行为.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/三、绝对权、相对权（按义务人之范围）.md",
+    "法律法规汇编/诉讼法/民诉法/最高人民法院关于适用《中华人民共和国民事诉讼法》的解释.md",
     "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为之分类：单方行为、多方行为、决议行为.md",
     "法律法规汇编/民商法/民法典/第三编 合同.md",
-    "法律法规汇编/民商法/商法/中华人民共和国公司法司法解释四.md",
-    "法律法规汇编/民商法/商法/中华人民共和国公司法.md",
-    "法律法规汇编/民商法/相关会议文件/全国法院民商事审判工作会议纪要（九民纪要）.md",
-    "民法专著/王泽鉴九阴真经/民法总则/权利的变动/法律行为的内容限制.md",
-    "法律法规汇编/民商法/民法典/第二编 物权.md",
-    "实习指导文件/各类文件模板.md"
+    "法律法规汇编/民商法/民法典/第五编 婚姻家庭.md",
+    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于适用《中华人民共和国民法典》婚姻家庭编的解释（一）（2021.1.1）.md"
   ]
 }
