@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:可可",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.11716719648998485,
-  "close": false
+  "scale": 1.47698609806867,
+  "close": true
 }
