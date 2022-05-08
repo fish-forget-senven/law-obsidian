@@ -4,16 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d4895c23aa221d75",
+        "id": "d47293637e6c3a39",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "商法专著/朱锦清公司法学/公司会计/第一节 财会报表.md",
+            "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之构成要素（3）.md",
             "mode": "preview",
-            "backlinks": false
-          }
-        }
+            "backlinks": false,
+            "source": false
+          },
+          "pinned": true
+        },
+        "group": "1acfa6ec3e8bec96"
+      },
+      {
+        "id": "e6a701106a36cc48",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "type": "video",
+              "filename": "\\BaiduNetdiskDownload\\民法总论21.mp4",
+              "src": "file:///D:/%5CBaiduNetdiskDownload%5C%E6%B0%91%E6%B3%95%E6%80%BB%E8%AE%BA21.mp4",
+              "hash": ""
+            },
+            "currentTime": 644.777286
+          },
+          "pinned": true
+        },
+        "group": "1acfa6ec3e8bec96"
       }
     ],
     "direction": "vertical"
@@ -40,11 +63,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(追加 诉讼请求)",
+                "query": "line:(表示意思)",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse"
               }
             }
@@ -65,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "商法专著/朱锦清公司法学/公司会计/第一节 财会报表.md",
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之构成要素（3）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "商法专著/朱锦清公司法学/公司会计/第一节 财会报表.md"
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之构成要素（3）.md"
               }
             }
           },
@@ -112,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "商法专著/朱锦清公司法学/公司会计/第一节 财会报表.md",
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之构成要素（3）.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +184,8 @@
               "state": {
                 "file": "华政初试倒计时.md",
                 "mode": "preview",
-                "backlinks": false
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -171,17 +196,17 @@
     "width": 244,
     "collapsed": true
   },
-  "active": "d4895c23aa221d75",
+  "active": "d47293637e6c3a39",
   "lastOpenFiles": [
-    "商法专著/朱锦清公司法学/公司会计/第一节 财会报表.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之构成要素（3）.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之构成要素（2）.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之生效.md",
+    "法律法规汇编/民商法/民法典/第六编 继承.md",
+    "法律法规汇编/民商法/民法典/第一编 总则.md",
+    "法律法规汇编/民商法/民法典/第五编 婚姻家庭.md",
+    "法律法规汇编/民商法/国务院规定/基金会管理条例.md",
+    "法律法规汇编/民商法/民法典/第三编 合同.md",
     "商法专著/朱锦清公司法学/公司会计/第二节 赢利分析.md",
-    "法律法规汇编/诉讼法/民诉法/最高人民法院关于适用《中华人民共和国民事诉讼法》的解释.md",
-    "markdown语法/mermaid从入门到入土.md",
-    "markdown语法/LaTex.md",
-    "商法专著/朱锦清公司法学/公司证券/第三节 股票衍生物.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/（四）形成权.md",
-    "商法专著/朱锦清公司法学/公司证券/第一节 股票.md",
-    "商法专著/朱锦清公司法学/公司证券/第二节 债券.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之构成要素（2）.md"
+    "商法专著/朱锦清公司法学/公司会计/第一节 财会报表.md"
   ]
 }
