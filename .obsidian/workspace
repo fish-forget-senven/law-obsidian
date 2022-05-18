@@ -4,39 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "fd271287ec5c61fd",
+        "id": "6384c5647ec4d512",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之生效.md",
-            "mode": "source",
+            "file": "法律法规汇编/诉讼法/民诉法/中华人民共和国民事诉讼法.md",
+            "mode": "preview",
             "backlinks": false,
             "source": false
           },
           "pinned": true
-        },
-        "group": "a79dbf10888cd32d"
+        }
       },
       {
-        "id": "c2afdcf40da62d64",
+        "id": "72f7f0386c93ccac",
         "type": "leaf",
-        "pinned": true,
         "state": {
-          "type": "media-view",
+          "type": "markdown",
           "state": {
-            "info": {
-              "type": "video",
-              "filename": "\\BaiduNetdiskDownload\\民法总则22.mp4",
-              "src": "file:///D:/%5CBaiduNetdiskDownload%5C%E6%B0%91%E6%B3%95%E6%80%BB%E5%88%9922.mp4#t=3112.42407",
-              "hash": "#t=3112.42407"
-            },
-            "currentTime": 4279.55316
-          },
-          "pinned": true
-        },
-        "group": "a79dbf10888cd32d"
+            "file": "法律法规汇编/诉讼法/民诉法/中华人民共和国民事诉讼法.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -63,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(表意人可归责) path:可可",
+                "query": "path:(汇编 民事诉讼) line:(再审 月)",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -93,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210,
-    "collapsed": true
+    "width": 210
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之生效.md",
+                "file": "法律法规汇编/诉讼法/民诉法/中华人民共和国民事诉讼法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之生效.md"
+                "file": "法律法规汇编/诉讼法/民诉法/中华人民共和国民事诉讼法.md"
               }
             }
           },
@@ -137,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之生效.md",
+                "file": "法律法规汇编/诉讼法/民诉法/中华人民共和国民事诉讼法.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +166,7 @@
         "currentTab": 1
       },
       {
-        "id": "8e3ca144349157f9",
+        "id": "f871af662c5dead4",
         "type": "tabs",
         "children": [
           {
@@ -194,20 +186,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
-  "active": "fd271287ec5c61fd",
+  "active": "72f7f0386c93ccac",
   "lastOpenFiles": [
-    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之生效.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之构成要素（2）.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之构成要素.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之生效（2）.md",
+    "法律法规汇编/诉讼法/民诉法/中华人民共和国民事诉讼法.md",
+    "实习指导文件/安徽省高级人民法院民事（行政）申请再审诉讼材料收取清单.md",
+    "实习指导文件/实习.md",
+    "任务清单.md",
     "未命名.md",
-    "文书写作/方不圆原告起诉财产保全损害责任纠纷.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之解释.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之构成要素（3）.md",
+    "华政初试倒计时.md",
     "法律常用网站/账号、密码、网站、电话、案号等.md",
-    "实习指导文件/实习.md"
+    "微信公众号摘录/交通事故/交通事故赔偿计算表+时限表+诉讼证据表（2022）.md",
+    "微信公众号摘录/劳动争议/2022版：工伤认定流程及赔偿标准（1-10级、工亡）.md",
+    "法律法规汇编/民商法/民法典/民法典.md"
   ]
 }
