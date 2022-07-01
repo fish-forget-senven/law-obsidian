@@ -17,14 +17,6 @@
           },
           "pinned": true
         }
-      },
-      {
-        "id": "45d21957fab7c8a8",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
@@ -98,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/债法总论/履行利益与信赖利益的计算.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/债法总论/履行利益与信赖利益的计算.md"
+              }
             }
           },
           {
@@ -122,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "课堂笔记/民法笔记/金可可民法/债法总论/履行利益与信赖利益的计算.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +163,7 @@
     "width": 244,
     "collapsed": true
   },
-  "active": "45d21957fab7c8a8",
+  "active": "8024f3fab7d9613a",
   "lastOpenFiles": [
     "课堂笔记/民法笔记/金可可民法/债法总论/履行利益与信赖利益的计算.md",
     "法律法规汇编/中华人民共和国律师法.md",
