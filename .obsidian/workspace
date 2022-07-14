@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "8024f3fab7d9613a",
+        "id": "c7562e108b9c9d17",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "课堂笔记/民法笔记/金可可民法/债法总论/履行利益与信赖利益的计算.md",
+            "file": "课堂笔记/民法笔记/金可可民法/债法总论/主给付义务（上）.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
           },
           "pinned": true
+        }
+      },
+      {
+        "id": "d702b5a0c8c4faa9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "课堂笔记/民法笔记/金可可民法/债法总论/债务与普通义务.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -43,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(援助 ) path:汇编",
+                "query": "line:(五百八十)",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -68,13 +81,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 210,
-    "collapsed": true
+    "width": 210
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -90,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/债法总论/履行利益与信赖利益的计算.md",
+                "file": "课堂笔记/民法笔记/金可可民法/债法总论/主给付义务（上）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/债法总论/履行利益与信赖利益的计算.md"
+                "file": "课堂笔记/民法笔记/金可可民法/债法总论/主给付义务（上）.md"
               }
             }
           },
@@ -117,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/债法总论/履行利益与信赖利益的计算.md",
+                "file": "课堂笔记/民法笔记/金可可民法/债法总论/主给付义务（上）.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,24 +167,24 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 244,
     "collapsed": true
   },
-  "active": "8024f3fab7d9613a",
+  "active": "c7562e108b9c9d17",
   "lastOpenFiles": [
+    "课堂笔记/民法笔记/金可可民法/债法总论/债务与普通义务.md",
+    "课堂笔记/民法笔记/金可可民法/债法总论/主给付义务（上）.md",
+    "课堂笔记/民法笔记/金可可民法/债法总论/债务的体系.md",
     "课堂笔记/民法笔记/金可可民法/债法总论/履行利益与信赖利益的计算.md",
-    "法律法规汇编/中华人民共和国律师法.md",
-    "法律法规汇编/刑法/中华人民共和国刑法.md",
-    "法律法规汇编/劳动法/工伤保险条例.md",
-    "法律法规汇编/劳动法/工伤认定办法.md",
+    "法律法规汇编/民商法/民法典/第三编 合同.md",
+    "法律法规汇编/民商法/民法典/第一编 总则.md",
     "实习指导文件/各类文件模板.md",
-    "法律法规汇编/劳动法/最高人民法院关于审理劳动争议案件适用法律问题的解释（一）（2021.1.1）.md",
-    "法律法规汇编/劳动法/中华人民共和国劳动合同法.md",
-    "任务清单.md",
-    "法律法规汇编/劳动法/中华人民共和国劳动法.md"
+    "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
+    "民法专著/韩世远合同法总论（第四版）/合同的订立/缔约上过失责任.md",
+    "法律常用网站/账号、密码、网站、电话、案号等.md"
   ]
 }
