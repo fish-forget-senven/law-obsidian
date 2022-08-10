@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(抵押 主 无效)",
+                "query": "line:(主次责任)",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -160,7 +160,7 @@
     "width": 100,
     "collapsed": true
   },
-  "active": "fb666f89a7fdfd4c",
+  "active": "b451999623e4aaf7",
   "lastOpenFiles": [
     "民法专著/韩世远合同法总论（第四版）/合同的分类/主合同与从合同.md",
     "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于适用《中华人民共和国民法典》有关担保制度的解释（2021.1.1）.md",
