@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(同等 责任) path:(汇编 )",
+                "query": "line:(同等 责任) ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
