@@ -4,27 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c7562e108b9c9d17",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "课堂笔记/民法笔记/金可可民法/债法总论/主给付义务（上）.md",
-            "mode": "preview",
-            "backlinks": false,
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "d702b5a0c8c4faa9",
+        "id": "fb666f89a7fdfd4c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "课堂笔记/民法笔记/金可可民法/债法总论/债务与普通义务.md",
+            "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/四、主权利、从权利（按相互关系，能否独立存在）.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -56,11 +41,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(五百八十)",
+                "query": "line:(抵押 主 无效)",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "byCreatedTimeReverse"
               }
             }
@@ -81,11 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 210
+    "width": 281
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -101,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/债法总论/主给付义务（上）.md",
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/四、主权利、从权利（按相互关系，能否独立存在）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/债法总论/主给付义务（上）.md"
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/四、主权利、从权利（按相互关系，能否独立存在）.md"
               }
             }
           },
@@ -128,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/债法总论/主给付义务（上）.md",
+                "file": "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/四、主权利、从权利（按相互关系，能否独立存在）.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -171,20 +157,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
+    "width": 100,
     "collapsed": true
   },
-  "active": "c7562e108b9c9d17",
+  "active": "fb666f89a7fdfd4c",
   "lastOpenFiles": [
-    "课堂笔记/民法笔记/金可可民法/债法总论/债务与普通义务.md",
-    "课堂笔记/民法笔记/金可可民法/债法总论/主给付义务（上）.md",
-    "课堂笔记/民法笔记/金可可民法/债法总论/债务的体系.md",
-    "课堂笔记/民法笔记/金可可民法/债法总论/履行利益与信赖利益的计算.md",
-    "法律法规汇编/民商法/民法典/第三编 合同.md",
+    "民法专著/韩世远合同法总论（第四版）/合同的分类/主合同与从合同.md",
+    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于适用《中华人民共和国民法典》有关担保制度的解释（2021.1.1）.md",
+    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于审理矿业权纠纷案件适用法律若干问题的解释(2021.1.1).md",
+    "法律法规汇编/民商法/民法典/第二编 物权.md",
     "法律法规汇编/民商法/民法典/第一编 总则.md",
-    "实习指导文件/各类文件模板.md",
-    "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
-    "民法专著/韩世远合同法总论（第四版）/合同的订立/缔约上过失责任.md",
-    "法律常用网站/账号、密码、网站、电话、案号等.md"
+    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于适用《中华人民共和国民法典》总则编若干问题的解释.md",
+    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于适用《中华人民共和国民法典》婚姻家庭编的解释（一）（2021.1.1）.md",
+    "民法专著/王泽鉴九阴真经/民法总则/法律行为的效力——无效、得撤销及效力未定/效力未定的法律行为.md",
+    "民法专著/王泽鉴九阴真经/民法总则/权利的变动/行为能力.md",
+    "民法专著/王泽鉴九阴真经/民法总则/法律关系与权利体系/请求权、抗辩权及形成权.md"
   ]
 }
