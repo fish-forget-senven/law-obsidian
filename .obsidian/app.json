@@ -11,5 +11,6 @@
   "showLineNumber": true,
   "readableLineLength": false,
   "foldIndent": true,
-  "autoPairBrackets": true
+  "autoPairBrackets": true,
+  "newLinkFormat": "relative"
 }
