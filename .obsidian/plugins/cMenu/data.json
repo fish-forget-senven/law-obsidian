@@ -1,0 +1,191 @@
+{
+  "aestheticStyle": "default",
+  "menuCommands": [
+    {
+      "id": "cmenu-plugin:editor:toggle-bold",
+      "name": "cMenu: Toggle bold",
+      "icon": "bold-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-italics",
+      "name": "cMenu: Toggle italics",
+      "icon": "italic-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-strikethrough",
+      "name": "cMenu: Toggle strikethrough",
+      "icon": "strikethrough-glyph"
+    },
+    {
+      "id": "cmenu-plugin:underline",
+      "name": "cMenu: Toggle underline",
+      "icon": "underline-glyph"
+    },
+    {
+      "id": "cmenu-plugin:superscript",
+      "name": "cMenu: Toggle superscript",
+      "icon": "superscript-glyph"
+    },
+    {
+      "id": "cmenu-plugin:subscript",
+      "name": "cMenu: Toggle subscript",
+      "icon": "subscript-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-code",
+      "name": "cMenu: Toggle code",
+      "icon": "code-glyph"
+    },
+    {
+      "id": "cmenu-plugin:codeblock",
+      "name": "cMenu: Toggle codeblock",
+      "icon": "codeblock-glyph"
+    },
+    {
+      "id": "cmenu-plugin:editor:toggle-blockquote",
+      "name": "cMenu: Toggle blockquote",
+      "icon": "quote-glyph"
+    },
+    {
+      "id": "app:toggle-left-sidebar",
+      "name": "折叠/展开左侧边栏",
+      "icon": "left-arrow"
+    },
+    {
+      "id": "app:toggle-right-sidebar",
+      "name": "折叠/展开右侧边栏",
+      "icon": "pane-layout"
+    },
+    {
+      "id": "graph:open-local",
+      "name": "关系图谱: 打开局部关系图",
+      "icon": "graph-glyph"
+    },
+    {
+      "id": "workspace:toggle-pin",
+      "name": "解锁/锁定",
+      "icon": "filled-pin"
+    },
+    {
+      "id": "global-search:open",
+      "name": "搜索: 在所有文件中搜索",
+      "icon": "search-glyph",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Shift"
+          ],
+          "key": "F"
+        }
+      ]
+    },
+    {
+      "id": "outline:open-for-current",
+      "name": "大纲: 打开当前文件的大纲",
+      "icon": "bullet-list-glyph"
+    },
+    {
+      "id": "editor:toggle-comments",
+      "name": "注释/取消注释",
+      "icon": "percent-sign-glyph",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "/"
+        }
+      ]
+    },
+    {
+      "id": "editor:set-heading",
+      "name": "小标题",
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "editor:toggle-numbered-list",
+      "name": "有序列表",
+      "icon": "number-list-glyph"
+    },
+    {
+      "id": "editor:toggle-bullet-list",
+      "name": "无序列表",
+      "icon": "bullet-list-glyph"
+    },
+    {
+      "id": "Enhanced-editing:text-Color1",
+      "name": "ZH增强编辑: 转换彩色文字1",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Shift"
+          ],
+          "key": "1"
+        }
+      ],
+      "icon": "highlight-glyph"
+    },
+    {
+      "id": "Enhanced-editing:del-lines",
+      "name": "ZH增强编辑: 批量去除空行",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Alt"
+          ],
+          "key": "l"
+        }
+      ],
+      "icon": "cross"
+    },
+    {
+      "id": "Enhanced-editing:del-allSpspace",
+      "name": "ZH增强编辑: 去除所有空格",
+      "icon": "cross"
+    },
+    {
+      "id": "Enhanced-editing:edit-duanhang",
+      "name": "ZH增强编辑: 修复意外断行",
+      "icon": "merge-files-glyph"
+    },
+    {
+      "id": "Enhanced-editing:add-kh1",
+      "name": "ZH增强编辑: 【选文】",
+      "icon": "bracket-glyph"
+    },
+    {
+      "id": "editor:open-search-replace",
+      "name": "在当前笔记中查找并替换",
+      "icon": "search-glyph",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "H"
+        }
+      ]
+    },
+    {
+      "id": "Enhanced-editing:add-daima",
+      "name": "ZH增强编辑: ```代码块```",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Alt"
+          ],
+          "key": "D"
+        }
+      ],
+      "icon": "codeblock-glyph"
+    }
+  ],
+  "appendMethod": "workspace",
+  "shouldShowMenuOnSelect": false,
+  "cMenuVisibility": true,
+  "cMenuBottomValue": 4.25,
+  "cMenuNumRows": 9
+}
