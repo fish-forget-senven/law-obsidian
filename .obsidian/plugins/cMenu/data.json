@@ -181,11 +181,16 @@
         }
       ],
       "icon": "codeblock-glyph"
+    },
+    {
+      "id": "obsidian-footnotes:insert-footnote",
+      "name": "Footnote Shortcut: Insert and Navigate Footnote",
+      "icon": "note-glyph"
     }
   ],
   "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
-  "cMenuVisibility": true,
+  "cMenuVisibility": false,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 9
 }
