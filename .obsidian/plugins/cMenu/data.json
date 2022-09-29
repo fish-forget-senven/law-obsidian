@@ -186,11 +186,25 @@
       "id": "obsidian-footnotes:insert-footnote",
       "name": "Footnote Shortcut: Insert and Navigate Footnote",
       "icon": "note-glyph"
+    },
+    {
+      "id": "Enhanced-editing:add-lines",
+      "name": "ZH增强编辑: 批量插入空行",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod",
+            "Shift"
+          ],
+          "key": "L"
+        }
+      ],
+      "icon": "horizontal-split"
     }
   ],
   "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
-  "cMenuVisibility": false,
+  "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 9
 }
