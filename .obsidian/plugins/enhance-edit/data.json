@@ -1,6 +1,6 @@
 {
   "isTab": false,
-  "isBT": false,
+  "isBT": true,
   "isShowNum": false,
   "maxScroll": 50,
   "version": "0.5.4",

@@ -170,19 +170,6 @@
       ]
     },
     {
-      "id": "Enhanced-editing:add-daima",
-      "name": "ZH增强编辑: ```代码块```",
-      "hotkeys": [
-        {
-          "modifiers": [
-            "Alt"
-          ],
-          "key": "D"
-        }
-      ],
-      "icon": "codeblock-glyph"
-    },
-    {
       "id": "obsidian-footnotes:insert-footnote",
       "name": "Footnote Shortcut: Insert and Navigate Footnote",
       "icon": "note-glyph"
@@ -206,5 +193,5 @@
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
-  "cMenuNumRows": 9
+  "cMenuNumRows": 18
 }
