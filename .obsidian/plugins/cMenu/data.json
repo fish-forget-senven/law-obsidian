@@ -99,11 +99,6 @@
       ]
     },
     {
-      "id": "editor:set-heading",
-      "name": "小标题",
-      "icon": "heading-glyph"
-    },
-    {
       "id": "editor:toggle-numbered-list",
       "name": "有序列表",
       "icon": "number-list-glyph"
@@ -175,18 +170,82 @@
       "icon": "note-glyph"
     },
     {
-      "id": "Enhanced-editing:add-lines",
-      "name": "ZH增强编辑: 批量插入空行",
+      "id": "Enhanced-editing:biaoti1-text",
+      "name": "ZH增强编辑: H1标题",
       "hotkeys": [
         {
           "modifiers": [
-            "Mod",
-            "Shift"
+            "Mod"
           ],
-          "key": "L"
+          "key": "1"
         }
       ],
-      "icon": "horizontal-split"
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "Enhanced-editing:biaoti2-text",
+      "name": "ZH增强编辑: H2标题",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "2"
+        }
+      ],
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "Enhanced-editing:biaoti3-text",
+      "name": "ZH增强编辑: H3标题",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "3"
+        }
+      ],
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "Enhanced-editing:biaoti4-text",
+      "name": "ZH增强编辑: H4标题",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "4"
+        }
+      ],
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "Enhanced-editing:biaoti5-text",
+      "name": "ZH增强编辑: H5标题",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "5"
+        }
+      ],
+      "icon": "heading-glyph"
+    },
+    {
+      "id": "Enhanced-editing:biaoti6-text",
+      "name": "ZH增强编辑: H6标题",
+      "hotkeys": [
+        {
+          "modifiers": [
+            "Mod"
+          ],
+          "key": "6"
+        }
+      ],
+      "icon": "heading-glyph"
     }
   ],
   "appendMethod": "workspace",
