@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a48fe8892de9eaa3",
+        "id": "9dbd0283e213b372",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "华政法综/华政法综背诵/刑事诉讼法学/第十五章 第一审程序.md",
+            "file": "华政法综/华政法综背诵/法理学导论/学前导读.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -68,13 +66,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 281,
-    "collapsed": true
+    "width": 281
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -90,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "华政法综/华政法综背诵/刑事诉讼法学/第十五章 第一审程序.md",
+                "file": "华政法综/华政法综背诵/法理学导论/学前导读.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "华政法综/华政法综背诵/刑事诉讼法学/第十五章 第一审程序.md"
+                "file": "华政法综/华政法综背诵/法理学导论/学前导读.md"
               }
             }
           },
@@ -117,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "华政法综/华政法综背诵/刑事诉讼法学/第十五章 第一审程序.md",
+                "file": "华政法综/华政法综背诵/法理学导论/学前导读.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -169,17 +165,17 @@
     "width": 389,
     "collapsed": true
   },
-  "active": "a48fe8892de9eaa3",
+  "active": "9dbd0283e213b372",
   "lastOpenFiles": [
+    "华政法综/华政法综背诵/法综真题题型列举.md",
+    "华政法综/华政法综背诵/刑事诉讼法学/第十五章 第一审程序.md",
     "华政法综/华政法综背诵/民法总则/第六章 权利的变动/第五节 意思表示.md",
     "华政法综/华政法综背诵/民法总则/第六章 权利的变动/第六节 意思与表示不一致.md",
     "华政法综/华政法综背诵/民法总则/第六章 权利的变动/第三节 法律行为内容的限制.md",
-    "华政法综/华政法综背诵/刑事诉讼法学/第十五章 第一审程序.md",
     "民法专著/王泽鉴九阴真经/侵权行为/第一编 绪论/侵权行为法的体系/侵权行为与不当得利.md",
     "华政法综/华政法综背诵/刑事诉讼法学/第十二章 侦查.md",
     "华政法综/华政法综背诵/刑事诉讼法学/第八章 刑事强制措施.md",
     "华政法综/华政法综背诵/刑事诉讼法学/第七章 刑事诉讼证据.md",
-    "华政法综/华政法综白皮书/大纲.md",
-    "华政法综/华政法综白皮书/刑事诉讼法学（第三版）/第七章 刑事诉讼证据/第四节 诉讼证明.md"
+    "华政法综/华政法综白皮书/大纲.md"
   ]
 }
