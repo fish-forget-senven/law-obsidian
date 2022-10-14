@@ -246,6 +246,18 @@
         }
       ],
       "icon": "heading-glyph"
+    },
+    {
+      "id": "editor:fold-all",
+      "name": "折叠所有标题和列表",
+      "icon": "compress-glyph",
+      "allowPreview": true
+    },
+    {
+      "id": "editor:unfold-all",
+      "name": "展开所有标题和列表",
+      "icon": "enlarge-glyph",
+      "allowPreview": true
     }
   ],
   "appendMethod": "workspace",
