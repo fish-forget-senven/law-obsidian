@@ -1,9 +1,6 @@
 [
   "obsidian-copy-block-link",
-  "obsidian-show-file-path",
   "calendar",
-  "recent-files-obsidian",
-  "obsidian-collapse-all-plugin",
   "note-refactor-obsidian",
   "obsidian-footnotes",
   "media-extended",
@@ -13,5 +10,10 @@
   "obsidian-git",
   "cmenu-plugin",
   "Enhanced-editing",
-  "omnisearch"
+  "recent-files-obsidian",
+  "obsidian-advanced-uri",
+  "templater-obsidian",
+  "obsidian-minimal-settings",
+  "obsidian-day-planner",
+  "ProxyGithub"
 ]

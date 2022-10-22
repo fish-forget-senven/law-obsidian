@@ -1,0 +1,20 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "notePath": "每日任务清单/2022-10-21.md",
+      "date": "Fri Oct 21 2022"
+    },
+    {
+      "notePath": "每日任务清单/2022-10-22.md",
+      "date": "Sat Oct 22 2022"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 1
+}

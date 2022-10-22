@@ -1,6 +1,8 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 19,
   "translucency": false,
   "theme": "moonstone",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Minimal",
+  "accentColor": "",
+  "textFontFamily": "楷体"
 }

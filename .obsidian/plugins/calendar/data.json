@@ -5,6 +5,6 @@
   "showWeeklyNote": true,
   "weeklyNoteFormat": "",
   "weeklyNoteTemplate": "",
-  "weeklyNoteFolder": "",
+  "weeklyNoteFolder": "每日任务清单",
   "localeOverride": "system-default"
 }

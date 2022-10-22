@@ -258,6 +258,16 @@
       "name": "展开所有标题和列表",
       "icon": "enlarge-glyph",
       "allowPreview": true
+    },
+    {
+      "id": "file-explorer:reveal-active-file",
+      "name": "文件列表: 在文件列表中显示当前文件",
+      "icon": "lucide-navigation"
+    },
+    {
+      "id": "Enhanced-editing:add-kh4",
+      "name": "ZH增强编辑: 《选文》",
+      "icon": "info"
     }
   ],
   "appendMethod": "workspace",

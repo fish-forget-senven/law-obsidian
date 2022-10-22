@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "课堂笔记/民法笔记/金可可民法/不当得利/善意、恶意之认定及其法效果.md",
+            "file": "华政法综/华政法综背诵/刑事诉讼法学/第十二章 侦查.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b47aea0bc9291b4d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "实习指导文件/各类文件模板.md",
             "mode": "preview",
             "backlinks": false,
             "source": false
@@ -41,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "第九百八十七条",
+                "query": "line:(报销)",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -66,12 +79,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 291,
-    "collapsed": true
+    "width": 291
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/不当得利/善意、恶意之认定及其法效果.md",
+                "file": "实习指导文件/各类文件模板.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/不当得利/善意、恶意之认定及其法效果.md"
+                "file": "实习指导文件/各类文件模板.md"
               }
             }
           },
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/不当得利/善意、恶意之认定及其法效果.md",
+                "file": "实习指导文件/各类文件模板.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -166,17 +179,17 @@
     "width": 389,
     "collapsed": true
   },
-  "active": "684b45c28669dd74",
+  "active": "b47aea0bc9291b4d",
   "lastOpenFiles": [
-    "课堂笔记/民法笔记/金可可民法/不当得利/概述.md",
-    "课堂笔记/民法笔记/金可可民法/不当得利/善意、恶意之认定及其法效果.md",
-    "法律法规汇编/民商法/民法典/第三编 合同.md",
-    "法律问题/关于民事诉讼何时可以申请法院强制执行.md",
-    "法律问题/人身损害赔偿项目.md",
-    "法律问题/决赛辩题.md",
-    "法律问题/租赁合同与不当得利.md",
-    "法律法规汇编/诉讼法/刑诉法/人民检察院刑事诉讼规则.md",
-    "法律法规汇编/诉讼法/刑诉法/中华人民共和国刑事诉讼法.md",
-    "法律法规汇编/律师职业道德类/中华人民共和国律师法.md"
+    "华政法综/华政法综背诵/刑事诉讼法学/第十二章 侦查.md",
+    "华政法综/华政法综背诵/刑事诉讼法学/第八章 刑事强制措施.md",
+    "华政法综/华政法综背诵/刑事诉讼法学/第七章 刑事诉讼证据.md",
+    "华政初试倒计时.md",
+    "未命名.md",
+    "任务清单.md",
+    "法律法规汇编/刑法/中华人民共和国刑法.md",
+    "华政法综/华政法综白皮书/刑法/第一章 刑法概述.md",
+    "实习指导文件/装卷/卷宗归档顺序.md",
+    "实习指导文件/各类文件模板.md"
   ]
 }
