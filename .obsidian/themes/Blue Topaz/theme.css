@@ -1,5 +1,5 @@
-/*蓝色托帕石，适合Obsidian v1.0。uid [20221017] flying fly flies制作。如果喜欢，可以在Github里给我星星 https://github.com/whyt-byte */
-/*Blue Topaz for Obsidian v1.0, uid [20221017] created by flying fly flies. Feel free to use, share and modify. If you like the theme, please star me on GitHub https://github.com/whyt-byte */
+/*蓝色托帕石，适合Obsidian v1.0。uid [20221022] flying fly flies制作。如果喜欢，可以在Github里给我星星 https://github.com/whyt-byte */
+/*Blue Topaz for Obsidian v1.0, uid [20221022] created by flying fly flies. Feel free to use, share and modify. If you like the theme, please star me on GitHub https://github.com/whyt-byte */
 
 /* 致谢 Credits：
 Many thanks to @Cuman
@@ -26,8 +26,8 @@ settings:
     collapsed: false
   - 
     id: color-settings
-    title: 1.1 Color Palette
-    title.zh: 1.1 颜色设置
+    title: 1.1 Color scheme 
+    title.zh: 1.1 整体配色
     type: heading
     level: 2
     collapsed: true
@@ -137,50 +137,6 @@ settings:
     type: class-toggle
     default: false
   - 
-    id: blur-depth
-    title: Blur Radius
-    title.zh: 模糊程度
-    description: To adjust the radius of blur
-    description.zh: 调整背景壁纸模糊程度
-    type: variable-number-slider
-    default: 10
-    format: px
-    min: 0
-    max: 30
-    step: 1
-  - 
-    id: brightness-4-bg
-    title: Brightness of Image
-    title.zh: 图片亮度
-    description: To adjust the brightness
-    description.zh: 调整背景壁纸亮度
-    type: variable-number-slider
-    default: 0.9
-    min: 0.3
-    max: 1.5
-    step: 0.1
-  - 
-    id: saturate-4-bg
-    title: Saturation of Image
-    title.zh: 图片饱和度
-    description: To adjust the saturation
-    description.zh: 调整背景壁纸饱和度
-    type: variable-number-slider
-    default: 1
-    min: 0
-    max: 2
-    step: 0.1
-  -
-    id: background-waves-color
-    title: Waves color
-    title.zh: 波浪背景颜色
-    description.zh: 当背景色选择为waves时起作用。
-    type: variable-themed-color
-    opacity: true
-    format: hex
-    default-light: '#4A75DB8C'
-    default-dark: '#4A75DB8C'
-  -
     id: background-settings-workplace-theme-light
     title: Light mode
     type: class-select
@@ -263,6 +219,50 @@ settings:
     type: variable-text
     default: url("https://")
   - 
+    id: blur-depth
+    title: Blur Radius
+    title.zh: 模糊程度
+    description: To adjust the radius of blur
+    description.zh: 调整背景壁纸模糊程度
+    type: variable-number-slider
+    default: 10
+    format: px
+    min: 0
+    max: 30
+    step: 1
+  - 
+    id: brightness-4-bg
+    title: Brightness of Image
+    title.zh: 图片亮度
+    description: To adjust the brightness
+    description.zh: 调整背景壁纸亮度
+    type: variable-number-slider
+    default: 0.9
+    min: 0.3
+    max: 1.5
+    step: 0.1
+  - 
+    id: saturate-4-bg
+    title: Saturation of Image
+    title.zh: 图片饱和度
+    description: To adjust the saturation
+    description.zh: 调整背景壁纸饱和度
+    type: variable-number-slider
+    default: 1
+    min: 0
+    max: 2
+    step: 0.1
+  -
+    id: background-waves-color
+    title: Waves color
+    title.zh: 波浪背景颜色
+    description.zh: 当背景色选择为waves时起作用。
+    type: variable-themed-color
+    opacity: true
+    format: hex
+    default-light: '#4A75DB8C'
+    default-dark: '#4A75DB8C'
+  -
     id: background-settings-workplace-random
     title: Random background
     title.zh: 随机背景
@@ -385,7 +385,7 @@ settings:
         label: Stripe notebook 2
         value: background-image-settings-markdown-page-stripe-notebook-2
   - 
-    id: background-settings-markdown-page
+    id: notebook-liked-background-settings
     title: 1.2.2.1 Notebook-liked background options
     title.zh: 1.2.2.1 类笔记样式背景设置
     type: heading
@@ -1380,37 +1380,37 @@ settings:
     type: variable-text
     default: 1em
   -
-    id: h1
+    id: h1-size
     title: Header 1
     title.zh: 标题 1
     type: variable-text
     default: 1.5625em
   -
-    id: h2
+    id: h2-size
     title: Header 2
     title.zh: 标题 2
     type: variable-text
     default: 1.4375em
   -
-    id: h3
+    id: h3-size
     title: Header 3
     title.zh: 标题 3
     type: variable-text
     default: 1.3125em
   -
-    id: h4
+    id: h4-size
     title: Header 4
     title.zh: 标题 4
     type: variable-text
     default: 1.1875em
   -
-    id: h5
+    id: h5-size
     title: Header 5
     title.zh: 标题 5
     type: variable-text
     default: 1.0625em
   -
-    id: h6
+    id: h6-size
     title: Header 6
     title.zh: 标题 6
     type: variable-text
@@ -1925,6 +1925,12 @@ settings:
     description: Make it austere
     type: class-toggle
     default: false
+  -
+    id: title-justify-start
+    title: Toggle title position to left
+    title.zh: 文件标题位置居左
+    type: class-toggle
+    default: false
   - 
     id: fancy-hr-folder
     title: 2.3.1 Dividing Line (Horizontal Ruler, hr, ---)
@@ -2191,7 +2197,7 @@ settings:
         label: Obsidian default
         value: default-list-marker
   -
-    id: list-style-change-options-folder
+    id: options-bt-default
     title: 2.3.2.1.1 Options for 'Blue Topaz Default'
     type: heading
     level: 5
@@ -2212,7 +2218,7 @@ settings:
     default-light: '#'
     default-dark: '#'
   -
-    id: list-style-change-options-folder
+    id: options-for-custom
     title: 2.3.2.1.2 Options for 'Custom'
     type: heading
     level: 5
@@ -3119,6 +3125,12 @@ settings:
     type: variable-text
     default: 100%
   -
+    id: image-border
+    title: Image borders
+    title.zh: 图片添加边框
+    type: class-toggle
+    default: false
+  -
     id: icons-style-folder-1
     title: Intro to Basic Image Position
     title.zh: 基本图片位置简介
@@ -3189,7 +3201,7 @@ settings:
     title: 2.3.16.1 Custom Text
     type: heading
     level: 4
-    collapsed: false
+    collapsed: true
   -
     id: loading-diy-text
     title: Custom Text
@@ -3244,7 +3256,7 @@ settings:
     title: 2.3.16.2 Custom Image/Animation
     type: heading
     level: 4
-    collapsed: false
+    collapsed: true
   -
     id: loading-text-before
     title: Adding Things Before
@@ -3281,7 +3293,7 @@ settings:
     title: 2.3.16.3 Custom Image/Animation
     type: heading
     level: 4
-    collapsed: false
+    collapsed: true
   -
     id: loading-page-custom-gif-url
     title: Custom Loading Page Image/Animation
@@ -3297,7 +3309,7 @@ settings:
     title: 2.3.16.4 Custom Image/Animation with Position Changing
     type: heading
     level: 4
-    collapsed: false
+    collapsed: true
   -
     id: loading-page-custom-gif-url-alt
     title: Custom Loading Page Image/Animation
@@ -3360,11 +3372,11 @@ settings:
         label: Customised colorful tag
         value: colorful-tag-bt
   -
-    id: style-options-for-other-plugins
+    id: customised-colorful-tag
     title: 2.3.17.1 Customised colorful tag
     type: heading
     level: 4
-    collapsed: false
+    collapsed: true
   - 
     id: tag1
     title: Tag-1
@@ -3414,11 +3426,11 @@ settings:
     default-light: '#f8f8f8'
     default-dark: '#e4e4e4'
   -
-    id: style-options-for-other-plugins
+    id: outlined-style
     title: 2.3.17.2 Outlined
     type: heading
     level: 4
-    collapsed: false
+    collapsed: true
   -
     id: tag-border-width
     title: Tag border width
@@ -8229,10 +8241,10 @@ body.color-scheme-options-simplicity-topaz .theme-light,
 body.color-scheme-options-simplicity-topaz.theme-light {
   --h1-color: var(--print-h1-color,var(--text-normal));
   --h2-color: var(--print-h2-color,var(--text-normal));
-  --h3-color: var(--print-h1-color,var(--text-normal));
-  --h4-color: var(--print-h2-color,var(--text-normal));  
-  --h5-color: var(--print-h2-color,var(--text-normal));
-  --h6-color: var(--print-h2-color,var(--text-normal));
+  --h3-color: var(--print-h3-color,var(--text-normal));
+  --h4-color: var(--print-h4-color,var(--text-normal));  
+  --h5-color: var(--print-h5-color,var(--text-normal));
+  --h6-color: var(--print-h6-color,var(--text-normal));
     --background-accent:  var(--simple-white-1);
   --background-modifier-border: var(--simple-gray-5);
   --background-modifier-form-field:  var(--simple-white-1);
@@ -8445,23 +8457,7 @@ body.color-scheme-options-simplicity-topaz .titlebar-button-container.mod-right:
 body.color-scheme-options-simplicity-topaz.theme-dark  .workspace-split.mod-root .workspace-tab-header.is-active::before,
 body.color-scheme-options-simplicity-topaz.theme-dark .workspace-split.mod-root .workspace-tab-header.is-active::after {
   box-shadow: none;
-}
-body.color-scheme-options-simplicity-topaz.view-button-front .workspace-leaf-content[data-mode='source'] .view-header .view-actions>:is([aria-label^="该面板处于编辑视图中"],[aria-label^="Current view: editing"]) {
-  opacity: 0.8;
-  position: absolute;
-  left:10px;
-  top: 3px;
-}
-body.color-scheme-options-simplicity-topaz.view-button-front .workspace-leaf-content[data-mode='preview'] .view-header .view-actions>:is([aria-label^="该面板处于阅读视图中"],[aria-label^="Current view: reading"]) {
-  opacity: 0;
-  position: absolute;
-  left:10px;
-  top: 3px;
-}
-body.color-scheme-options-simplicity-topaz.view-button-front .workspace-leaf-content[data-mode='preview'] .view-header:hover .view-actions>:is([aria-label^="该面板处于阅读视图中"],[aria-label^="Current view: reading"]) {
-  opacity: 1;
-}
-
+}     
 body.color-scheme-options-simplicity-topaz .nav-action-button.is-active {
   background-color: var(--simple-blue-2);
 }
@@ -8469,7 +8465,13 @@ body.color-scheme-options-simplicity-topaz .checkbox-container.is-enabled {
   background-color: var(--interactive-accent-hover);
 }
 
-
+body.color-scheme-options-simplicity-topaz  .workspace-split.mod-root  .workspace-tab-header.is-active.mod-active {
+  border-color: var(--background-modifier-border);
+  border-style: solid;
+  background-image: linear-gradient(to right, var(--simple-white-6), var(--simple-tran));
+  border: none;
+}
+ 
 /* Hide dock's tab menu, and show them when hovered  */
 body.color-scheme-options-simplicity-topaz .workspace-tab-header-container {
 	z-index: 1;
@@ -8519,10 +8521,12 @@ body.color-scheme-options-simplicity-topaz [class="menu"] {
 	100% { transform:scale(100%); opacity:1; }
 }
 /* Left dock navigation (new note, new folder, reorder) */
+ 
 body.color-scheme-options-simplicity-topaz .workspace-tab-header-container:hover + .workspace-tab-container .workspace-leaf .workspace-leaf-content>.nav-header {
   margin-top: 0;
   transition: all 0.1s linear;
 }
+
 body.color-scheme-options-simplicity-topaz .workspace-tab-header-container + .workspace-tab-container .workspace-leaf .workspace-leaf-content>.nav-header:hover {
   margin-top: 0;
   transition: all 0.6s linear;
@@ -8882,7 +8886,7 @@ body.reduce-bottom-padding:not(.plugin-cm-typewriter-scroll) .cm-s-obsidian .cm-
 /* cssclass: image-grid */
 /* image-grid-2 */
 /* adapted from https://github.com/iEchoxu/obsidian_orange/blob/main/.obsidian/snippets/image-grid.css */
-.img-grid :is(.markdown-preview-section,.markdown-rendered)>div>p>.image-embed[alt*="."] {
+/* .img-grid :is(.markdown-preview-section,.markdown-rendered)>div>p>.image-embed[alt*="."] {
   padding: 0 0.3rem;
 }
 .img-grid :is(.markdown-preview-section,.markdown-rendered)>div>p>.image-embed[alt*="."]:last-child {
@@ -8900,6 +8904,42 @@ body.reduce-bottom-padding:not(.plugin-cm-typewriter-scroll) .cm-s-obsidian .cm-
 .img-grid img[alt*="."] {
   max-height: 100vh;
   object-fit: cover;
+} */
+
+.img-grid .markdown-preview-section .el-embed-image img:not([width]),.img-grid .markdown-preview-section video{
+	width:100%
+}
+.img-grid .markdown-preview-section>.el-embed-image>p{
+	display:grid;
+	grid-column-gap:0.5rem;
+	grid-row-gap:0;
+	grid-template-columns:repeat(auto-fit,minmax(0,1fr))
+}
+.img-grid .markdown-preview-section>.el-embed-image>p>br{
+	display:none
+}
+.img-grid .markdown-preview-section>.el-embed-image>p>img{
+	object-fit:cover;
+	align-self:stretch
+}
+.img-grid .markdown-preview-section>.el-embed-image>p>.internal-embed img{
+	object-fit:cover;
+	height:100%
+}
+
+.img-grid-ratio .markdown-preview-section>.el-embed-image>p>.internal-embed img
+,.img-grid.img-grid-ratio .markdown-preview-section>.el-embed-image>p>.internal-embed img{
+  object-fit:contain;
+	height:100%;
+	align-self:center
+}
+@media (max-width:400pt){
+	.el-embed-image{
+		margin-top:.25rem
+	}
+	.img-grid .markdown-preview-section>.el-embed-image>p{
+		grid-column-gap:0.25rem
+	}
 }
 
 /* cssclass: kanban */
@@ -10476,7 +10516,7 @@ span.obsidian-search-match-highlight {
 .search-result-file-match:after {
   display: none;
 }
-
+ 
 .search-input {
   display: block;
   margin: 0 auto 10px auto;
@@ -12688,7 +12728,7 @@ body:not(.remove-colorful-highlight-bg) .cm-em.cm-formatting.cm-formatting-highl
  /* ----状态栏透明开关----------- */
 
 body.bt-search-bar-bottom .document-search-container {
-  bottom: 0;
+  bottom: 38px;
   width: 100% !important;
   position: absolute;
   height: 62px !important;
@@ -12885,10 +12925,10 @@ a.internal-link,
 
 :is(.markdown-preview-view,.markdown-rendered) a:hover {
   color: var(--text-accent);
-  background: var(--theme-color-translucent-015);
   border-radius: var(--radius-xs);
   text-decoration: none !important;
   transition: all 0.4s ease-in-out;
+text-shadow: var(--window-shadow-hover);
 }
 /*
 body.colorful-link-animation :is(.markdown-preview-view,.markdown-rendered) a:hover {
@@ -13345,6 +13385,10 @@ span.cm-formatting.cm-formatting-header {
   opacity: 0.45;
 }
 
+body.image-border img{
+  border: 1px solid rgba(var(--mono-rgb-100),0.1);
+  filter:drop-shadow(0px 0px 3px rgba(var(--mono-rgb-100),0.2));
+}
 /* images : reduce displayed size of embedded files, zoom on hover */
 body:not(.obsidian-default-image) :is(.markdown-preview-view,.markdown-rendered) img:not([class*="emoji"]) {
   max-width: var(--image-max-width);
@@ -13792,6 +13836,7 @@ body.nowrap-outline .outline .tree-item-inner {
 [class='modal']{
  max-width: unset ;
  width: unset;
+ min-width: var(--dialog-width);
 }
 
 .modal.mod-settings {
@@ -17539,15 +17584,6 @@ div.workspace-leaf-content[data-type="style-settings"]  div.style-settings-headi
   border-top: 1px inset #ffffff24;
 }
 
-body.is-hidden-frameless .setting-item:is([data-id="simple-titlebar"],[data-id="custom-titlebar-bg"],[data-id="titlebar-blur-depth"],[data-id="titlebar-brightness"],[data-id="hide-titlebar-text"])
-{
-  display: none;
-}
-
-body:not(.is-hidden-frameless) .setting-item:is([data-id="hide-titlebar-close-btn"])
-{
-  display: none;
-}
 
 /*
 .theme-light div.setting-item {
@@ -17657,7 +17693,105 @@ div.workspace-leaf-content[data-type="style-settings"] div.style-settings-headin
 .style-settings-container .setting-item:is([data-id^="text-accent"]) .setting-item-control::before {
   background-color: var(--text-accent);
 }
+/**style setting logic  ******/
+body:not(.color-scheme-options-lillimon-topaz)  .setting-item[data-id="color-magic"],
+body:not(.background-settings-workplace-background-image)  .setting-item[data-id="background-settings-workplace-background-image"] ~ *,
+body:not(.background-image-settings-switch)  .setting-item[data-id="background-image-settings-switch"] ~ *
+{
+  display: none;
+}
 
+body:not([class*="background-settings-workplace-wave"]) .setting-item[data-id="background-waves-color"],
+body:not(.background-settings-workplace-theme-light-custom-option) .setting-item[data-id="background-settings-workplace-theme-light-custom"],
+body:not(.background-settings-workplace-theme-dark-custom-option) .setting-item[data-id="background-settings-workplace-theme-dark-custom"],
+body:not(.background-settings-workplace-random-dark) .setting-item[data-id="background-settings-workplace-random"],
+body:not(.background-settings-workplace-random-light) .setting-item[data-id="background-settings-workplace-random"]
+{
+  display: none;
+}
+
+body:not(.background-image-settings-markdown-page-random) .setting-item[data-id="background-image-settings-markdown-page-random-options"],
+body.non-notebook-bg .setting-item[data-id="notebook-liked-background-settings"] ,
+body.non-notebook-bg .setting-item[data-id="notebook-liked-background-settings"]  ~ *
+{
+  display: none;
+}
+ .setting-item[data-id="notebook-liked-background-settings"] + .style-settings-container .setting-item:not(:first-child)
+{
+  display: none;
+}
+body:is(.background-image-settings-markdown-page-grid-notebook-1,.background-image-settings-markdown-page-grid-notebook-2,
+.background-image-settings-markdown-page-dotted-notebook-1,.background-image-settings-markdown-page-dotted-notebook-2) .setting-item[data-id="bg-color-notebook"],
+body.background-image-settings-markdown-page-grid-notebook-1 .setting-item[data-id="grid-notebook-line-color-1"],
+body.background-image-settings-markdown-page-grid-notebook-2 .setting-item[data-id="grid-notebook-line-color-2"],
+body:is(.background-image-settings-markdown-page-dotted-notebook-1,.background-image-settings-markdown-page-dotted-notebook-2) .setting-item[data-id="dotted-notebook-dot-color"]
+{
+display: block!important;
+}
+body:not(.background-image-settings-command-palette-switch)  .setting-item[data-id="background-image-settings-command-palette-switch"] ~ *,
+body:not(.background-image-settings-command-palette-custom)  .setting-item[data-id="background-command-palette-theme-light-custom"],
+body:not(.background-image-settings-command-palette-custom)  .setting-item[data-id="background-command-palette-theme-dark-custom"]
+{
+  display: none;
+}
+body:not(.toggle-bg-panel-page)  .setting-item[data-id="toggle-bg-panel-page"] ~ *,
+body:not(.panel-page-bg-theme-light-custom) .setting-item[data-id="background-panel-page-theme-light-custom"],
+body:not(.panel-page-bg-theme-dark-custom) .setting-item[data-id="background-panel-page-theme-dark-custom"]
+{
+  display: none;
+}
+
+body:not(.fancy-hr-icon)   .setting-item[data-id="fancy-hr-folder-icon"],
+body:not(.fancy-hr-no-icon)   .setting-item[data-id="fancy-hr-folder-no-icon"],
+body:not(.fancy-hr-number)   .setting-item[data-id="fancy-hr-folder-with-number"]
+{
+  display: none;
+}
+
+body:not(.bt-default-unordered-list) .setting-item[data-id="options-bt-default"],
+body:not(.custom-unordered-list) .setting-item[data-id="options-for-custom"]
+{
+  display: none;
+}
+
+body:not(.custom-ordered-list) .setting-item[data-id^="list-ol-marker-"]
+{
+  display: none;
+}
+body.folder-style-change-options-colorful-default  .setting-item[data-id="folder-style-change-options-colorful-subfolder"]
+{
+  display: none;
+}
+
+body:not(.folder-colorful-custom) .setting-item[data-id="folder-colorful-custom-color"]
+{
+  display: none;
+}
+
+body:not(.loading-custom-text)  .setting-item[data-id="loading-custom-text-folder"],
+body:not(.loading-animation-custom)  .setting-item[data-id="loading-animation-custom-folder"]
+{
+  display: none;
+}
+
+body:not(.colorful-tag-bt) .setting-item[data-id="customised-colorful-tag"],
+body:not(.tag-pill-outlined) .setting-item[data-id="outlined-style"]
+{
+  display: none;
+}
+ 
+
+body.is-hidden-frameless .setting-item:is([data-id="simple-titlebar"],[data-id="custom-titlebar-bg"],[data-id="titlebar-blur-depth"],[data-id="titlebar-brightness"],[data-id="hide-titlebar-text"])
+{
+  display: none;
+}
+
+body:not(.is-hidden-frameless) .setting-item:is([data-id="hide-titlebar-close-btn"])
+{
+  display: none;
+}
+
+/********/
 /* ================================== */
 /* ==== advanced-tables-toolbar ===== */
 /* ================================== */
@@ -18189,7 +18323,12 @@ padding: 0;
 }
 .database-plugin__cell_size_normal .data-input > *
 {
-  height:auto;
+  align-items: center;
+}
+.database-plugin__cell_size_normal .data-input > div
+{
+  display: flex;;
+  align-items: center;
 }
 
 .data-input.database-plugin__calendar {
@@ -18206,7 +18345,8 @@ div.react-datepicker-wrapper {
 .database-plugin__td :is(.cell-padding, .data-input):empty::before {
 	content: "✏️";
 	text-align: center;
-	color: hsla(var(--interactive-accent-hsl),0.8)
+	color: hsla(var(--interactive-accent-hsl),0.8);
+ pointer-events: none;
 }
 .database-plugin__markdown-preview-view {
   padding: 0;
@@ -19267,12 +19407,18 @@ body.is-mobile.background-settings-workplace-background-image .workspace-split.m
     min-height: 30px;
     background-color:  hsla(var(--color-accent-hsl), 0.2);
     width: 100%;
+    pointer-events: none;
       }
   
   .projects-container [role='row']  [role='gridcell'].selected
       {
         box-shadow: 0 0 0 1px var(--interactive-accent);
       }
+
+ .projects-container div.rowHeader
+{
+  backdrop-filter:blur(10px);
+}
 /*=======================
 ===  dialogue by cuman====
 ========================*/
@@ -19695,9 +19841,6 @@ body.background-settings-workplace-background-image .workspace-tab-header-contai
   background: var(--background-secondary);
 }
 
-body.background-settings-workplace-background-image .workspace-ribbon.mod-left:before {
-  border-bottom: none;
-}
 body.background-settings-workplace-background-image .workspace-ribbon {
   border-right: none;
 }
@@ -19754,9 +19897,7 @@ body:not(.is-focused):not(.is-frameless) .workspace-split.mod-root .workspace-ta
   background-color: var(--background-secondary);
 }
 
-.workspace-tab-header.is-active.mod-active {
-  background-color: var(--background-primary);
-}
+
 
 .view-header {
   border-top: none;
@@ -19783,14 +19924,35 @@ body.color-scheme-options-lillimon-topaz .view-header {
 
 
 
+
+body.view-button-front  .popover .workspace-leaf-content:is([data-mode="preview"],[data-mode="source"]) .view-header .view-actions>:is([aria-label^="该面板处于编辑视图中"],[aria-label^="Current view: editing"]),
+body.view-button-front  .popover .workspace-leaf-content:is([data-mode="preview"],[data-mode="source"]) .view-header .view-actions>:is([aria-label^="该面板处于编辑视图中"],[aria-label^="Current view: editing"]) {
+  left:0px;
+  top: 6px;
+}
+body.view-button-front  .popover  .workspace-leaf-content[data-mode='preview'] .view-header .view-actions>:is([aria-label^="该面板处于阅读视图中"],[aria-label^="Current view: reading"]) ,
+body.view-button-front  .popover  .workspace-leaf-content[data-mode='preview'] .view-header .view-actions>:is([aria-label^="该面板处于阅读视图中"],[aria-label^="Current view: reading"]) {
+  left:0px;
+  top: 6px;
+}
+
+body.is-mobile.view-button-front .workspace-leaf-content:is([data-mode="preview"],[data-mode="source"]) .view-header .view-actions>:is([aria-label^="该面板处于编辑视图中"],[aria-label^="Current view: editing"]) {
+  left: 0px;
+  top: 6px;
+}
+
 body.view-button-front .workspace-leaf-content:is([data-mode="preview"],[data-mode="source"]) .view-header .view-actions>:is([aria-label^="该面板处于编辑视图中"],[aria-label^="Current view: editing"]) {
   opacity: 0.8;
   position: absolute;
   left:10px;
   top: 3px;
 }
+body.is-mobile.view-button-front .workspace-leaf-content[data-mode='preview'] .view-header .view-actions>:is([aria-label^="该面板处于阅读视图中"],[aria-label^="Current view: reading"]) {
+  left: 0px;
+  top: 6px;
+}
 body.view-button-front .workspace-leaf-content[data-mode='preview'] .view-header .view-actions>:is([aria-label^="该面板处于阅读视图中"],[aria-label^="Current view: reading"]) {
-  opacity: 0.8;
+  opacity: 0.5;
   position: absolute;
   left:10px;
   top: 3px;
@@ -20429,17 +20591,14 @@ body.background-image-settings-switch.background-image-settings-markdown-page-ra
 }
 
 
-body.background-image-settings-switch.background-image-settings-markdown-page-transparent .workspace-split.mod-root .view-content {
-  background-color: var(--background-secondary-alt);
+body.background-image-settings-switch.background-image-settings-markdown-page-transparent .workspace-split.mod-root  {
+  --background-primary: var(--background-secondary);
+  --tab-outline-color:var(--background-secondary);
 }
 body.background-image-settings-switch.background-image-settings-markdown-page-transparent .mod-root .workspace-tabs .workspace-leaf {
   background-color: unset;
 }
-body.background-image-settings-switch.background-image-settings-markdown-page-transparent .workspace-split.mod-root .view-content {
  
-  background-color: var(--background-secondary-bg-4-bt);
-}
-
 
 body.background-image-settings-switch.background-image-settings-markdown-page-sea-and-sky .workspace-split.mod-root .workspace-leaf:nth-child(n) .workspace-leaf-content[data-type="markdown"]::before {
   content: '';
@@ -22196,8 +22355,11 @@ body.background-settings-workplace-background-image:is(.background-settings-work
   background: var(--simple-white-2);
 }
 
+body.color-scheme-options-simplicity-topaz.background-settings-workplace-background-image:is(.background-settings-workplace-waves,.background-settings-workplace-waves2).theme-dark  .workspace {
+  background: var(--simple-white-2);
+}
 body.background-settings-workplace-background-image:is(.background-settings-workplace-waves,.background-settings-workplace-waves2).theme-dark  .workspace {
-  background: var(--simple-tran);
+  background: var(--background-primary);
 }
 /****from https://www.shapedivider.app/*****/
 body.background-settings-workplace-background-image.background-settings-workplace-waves-light.theme-light .workspace:before,
@@ -22321,6 +22483,7 @@ body.background-settings-workplace-background-image:not(.simple-titlebar):not(.i
   filter: blur(var(--titlebar-blur-depth)) brightness(calc(var(--titlebar-brightness) - 0.5)) opacity(0.5);
 }
 
+
 body:not(.simple-titlebar).background-settings-workplace-waves-light.theme-light .titlebar::before {
   content: '';
   display: block;
@@ -22333,7 +22496,7 @@ body:not(.simple-titlebar).background-settings-workplace-waves-light.theme-light
 	opacity:0.5;
   background-color: var(--wave-background-color);
 } 
-body.background-settings-workplace-background-image:not(.simple-titlebar) .titlebar {
+body.background-settings-workplace-background-image:not(.simple-titlebar):not(.is-hidden-frameless) .titlebar {
   --custom-titlebar-bg: var(--background-secondary);
   background-color:  var(--custom-titlebar-bg);
   border: none;
@@ -23768,6 +23931,8 @@ body.theme-dark .popover.hover-popover:not(.is-loaded) {
   max-width: 100% !important;
   /* margin: 0 auto; */
 }
+
+ 
 /*隐藏backlinks区域*/
 :is(.markdown-preview-view,.markdown-rendered).nobacklinks .embedded-backlinks {
   display: none;
@@ -23909,8 +24074,10 @@ body.theme-dark .popover.hover-popover:not(.is-loaded) {
 }
 
 /* ================================== */
-/* ======= Call out======= */
+/* ======= Callout======= */
 /* ================================== */
+
+
 body.admonition-bg-color-same .callout
 {
   background-color: rgba(var(--callout-color), 0.1);
@@ -25013,6 +25180,15 @@ body.colorful-p-kanban .callout.callout[data-callout*="kanban"] .task-list-item-
 .callout[data-callout="stickies"] { 
   box-shadow:none;
   border-left:0px;
+  overflow: unset;
+}
+.callout[data-callout="stickies"][data-callout-metadata*="left"]
+{
+  width: max(180px, 30%);
+}
+
+.callout[data-callout="stickies"][data-callout-metadata*="left"]>.callout-content { 
+  max-width: 100%;
 }
 .callout[data-callout="stickies"] >.callout-title { 
   display: none;
@@ -25123,6 +25299,14 @@ body.colorful-p-kanban .callout.callout[data-callout*="kanban"] .task-list-item-
   border: 1px;
   box-shadow: inset -10px -10px 10px #f0b7a4, inset 3px 3px 5px;
 }
+.callout[data-callout="stickies2"][data-callout-metadata*="right"]
+{
+  width: max(180px, 30%);
+}
+.callout[data-callout="stickies2"][data-callout-metadata*="right"] >.callout-content {
+  float:right;
+  max-width: 100%;
+}
 
 .callout[data-callout="stickies3"] { 
   background-color: transparent ;
@@ -25221,7 +25405,7 @@ div.callout[data-callout="stickies3"] >.callout-content ul {
   max-height: 195px;
 }
 
-.callout:is([data-callout-metadata='yellow']) {
+.callout:is([data-callout-metadata*='yellow']) .callout-content{
   background: #F7E999;
   -webkit-transform: rotate(2deg);
   -moz-transform: rotate(2deg);
@@ -25230,7 +25414,7 @@ div.callout[data-callout="stickies3"] >.callout-content ul {
   transform: rotate(2deg);
 }
 
-.callout:is([data-callout-metadata='blue']) .callout-content {
+.callout:is([data-callout-metadata*='blue']) .callout-content {
   background: #b9dcf4;
   -webkit-transform: rotate(-2deg);
   -moz-transform: rotate(-2deg);
@@ -25239,7 +25423,7 @@ div.callout[data-callout="stickies3"] >.callout-content ul {
   transform: rotate(-2deg);
 }
 
-.callout:is([data-callout-metadata='pink']) .callout-content {
+.callout:is([data-callout-metadata*='pink']) .callout-content {
   background: #FFBDA3;
   -webkit-transform: rotate(1deg);
   -moz-transform: rotate(1deg);
@@ -25248,7 +25432,7 @@ div.callout[data-callout="stickies3"] >.callout-content ul {
   transform: rotate(1deg);
 }
 
-.callout:is([data-callout-metadata='green']) .callout-content {
+.callout:is([data-callout-metadata*='green']) .callout-content {
   background: #CAF4B9;
   -webkit-transform: rotate(-1deg);
   -moz-transform: rotate(-1deg);
@@ -25269,7 +25453,10 @@ body.tag-click .cm-line span.cm-hashtag:not(.cm-formatting) {
 body.reversal-titlebar .titlebar-button-container.mod-right {
   direction: rtl;
 }
-
+body.is-hidden-frameless:not(.is-fullscreen ).is-focused .titlebar-button-container.mod-right {
+  background-color:transparent;
+  }
+  
 
 /* funny LP headers animation 开启标题动画 ===
 from discord @sailKite https://cdn.discordapp.com/attachments/702656734631821413/1007258862606352424/FunnyHeaderAnimLP.css
@@ -25475,11 +25662,20 @@ body:not(.remove-selectionbackground) .markdown-source-view.mod-cm6 .cm-editor .
   margin: 0;
   padding: 0 var(--size-4-2);
 }
-
+.workspace-tabs.mod-stacked  .view-header,
+.is-focused .workspace .mod-root .workspace-tabs.mod-stacked .workspace-leaf.mod-active .view-header
+{
+  background-color: var(--color-base-10);
+}
+.workspace-split.mod-root   .workspace-tabs.mod-stacked  .view-content
+{
+  backdrop-filter: blur(20px);
+}
 .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header {
   background-color: var(--background-primary);
   border-right: 1px solid var(--page-border-bottom);
   box-shadow: -1px 0 10px 0 var(--tab-stacked-shadow);
+  backdrop-filter: blur(6px);
 }
 .workspace .mod-root .workspace-tabs.mod-stacked .workspace-tab-container .workspace-tab-header:first-child {
  border-left: 1px solid var(--page-border-bottom);
@@ -26461,7 +26657,10 @@ body:not(.toggle-icon-anima) .clickable-icon:hover:after {
 }
 
 /**ob 1.0 **/
-
+.is-hidden-frameless:not(.is-fullscreen) .titlebar-button-container.mod-right:hover 
+  {
+    background-color: var(--titlebar-background-focused);
+  }
 .is-hidden-frameless:not(.is-fullscreen) .titlebar-button-container.mod-right {
   background-color: transparent;
 }
@@ -26474,13 +26673,16 @@ body:not(.toggle-icon-anima) .clickable-icon:hover:after {
   vertical-align:top;
 }
 
-.view-header-title-container {
+body.title-justify-start .view-header-title-container {
   justify-content: flex-start;
 }
 
 .search-input-container input {
   border: none;
-  box-shadow: none;
+  background: var(--background-secondary);
+}
+.search-input-container input:hover {
+  box-shadow: var(--window-shadow-hover);
 }
 .menu{
   background-color:var(--color-base-10);
@@ -26704,24 +26906,21 @@ body.stack-tab-text-ori-mixed .workspace-tab-header-inner-title {
 } 
 
 
-body.tab-title-bar-position .workspace-tabs:not(.mod-stacked) .view-header
-{
+body.tab-title-bar-position .workspace-tabs:not(.mod-stacked) .view-header {
   left: 16px;
   border: none;
   transform-origin: right center;
   writing-mode: vertical-rl;
- position: absolute;
- padding:0;
- background:transparent;
+  position: absolute;
+  padding: 0;
+  background: transparent;
 }
 
-body.tab-title-bar-position .workspace-tabs:not(.mod-stacked)  .view-header-nav-buttons
-{
+body.tab-title-bar-position .workspace-tabs:not(.mod-stacked)  .view-header-nav-buttons {
   margin-left: -12px;
 }
 
-body.tab-title-bar-position .workspace-tabs:not(.mod-stacked) .view-header .view-actions
-{
+body.tab-title-bar-position .workspace-tabs:not(.mod-stacked) .view-header .view-actions {
   margin-left: -13px;
 }
 body.tab-title-bar-position .workspace-tabs:not(.mod-stacked) .view-header-title-container {
@@ -26729,13 +26928,12 @@ body.tab-title-bar-position .workspace-tabs:not(.mod-stacked) .view-header-title
   top: 25vh;
   left: -8px;
   transform-origin: right center;
-      writing-mode: vertical-rl;
-        text-orientation: mixed;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
 }
 
  
-body.view-button-front.tab-title-bar-position .workspace-leaf-content .view-header .view-header-nav-buttons
-{
+body.view-button-front.tab-title-bar-position .workspace-leaf-content .view-header .view-header-nav-buttons{
   margin-left: -12px;
   margin-top: 25px;
 }
@@ -26743,11 +26941,9 @@ body.view-button-front.tab-title-bar-position .workspace-leaf-content .view-head
 body.view-button-front.tab-title-bar-position .workspace-leaf-content:is([data-mode="preview"],
 [data-mode="source"]) .view-header .view-actions>:is([aria-label^="该面板处于编辑视图中"],
 [aria-label^="Current view: editing"]) {
-
   left: -10px;
 }
 body.view-button-front.tab-title-bar-position .workspace-leaf-content[data-mode='preview'] .view-header .view-actions>:is([aria-label^="该面板处于阅读视图中"],[aria-label^="Current view: reading"]) {
-
   left: -10px;
 }
 
@@ -26757,8 +26953,7 @@ body.tab-title-bar-position .markdown-reading-view .markdown-preview-view {
   padding-left: unset;
 }
 
-body.tab-title-bar-position .workspace-split.mod-root .view-content
-{
+body.tab-title-bar-position .workspace-split.mod-root .view-content {
   padding-left: 2.5rem;
 }
 
@@ -26791,8 +26986,7 @@ body.hide-titlebar-close-btn.is-hidden-frameless .workspace-ribbon.mod-left .sid
  }
  body.hide-titlebar-close-btn.is-hidden-frameless .titlebar-button-container.mod-right:not(:hover)
  {
-
-transform: translateY(-25px);
+transform: translateY(calc( -1 * var(--header-height) + 6px));
 transition: all 0.6s linear;
  }
 
@@ -26809,28 +27003,32 @@ transition: all 0.6s linear;
 body.hide-titlebar-close-btn.is-hidden-frameless .titlebar-inner:hover  .titlebar-button-container.mod-right
  {
   transition: all 0.1s linear;
-  transform:unset;
+  transform:translateY(-15px);
+  background: var(--titlebar-background-focused);
   opacity: 0.8;
  }
- 
+ body.hide-titlebar-close-btn.is-hidden-frameless.mod-linux .titlebar-button, 
+ body.hide-titlebar-close-btn.is-hidden-frameless.mod-windows .titlebar-button
+ {
+  padding-bottom: 6px;
+  align-items: flex-end;
+ }
 
 .view-header-title-container.web-browser-header-bar .view-header-title-parent:before {
   content: ' ';
   margin-left: 10px;
   color: var(--text-faint);
-  width:12px;
+  width:10px;
   height: 8px;
   background-color: var(--text-muted);
  -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'  viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='svg-icon lucide-search'%3E%3Ccircle cx='11' cy='11' r='8'%3E%3C/circle%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'%3E%3C/line%3E%3C/svg%3E");
 
 }
  /* ====web-browser==== */
-.view-header-title-container.web-browser-header-bar  +  .view-actions .view-action
-{
-  opacity: 1!important;
+.view-header-title-container.web-browser-header-bar  +  .view-actions .view-action {
+  opacity: 1 !important;
 }
-.view-header-title-container.web-browser-header-bar  +  .view-actions .view-action[aria-label="切换视图"]
-{
+.view-header-title-container.web-browser-header-bar  +  .view-actions .view-action[aria-label="切换视图"] {
   display: none;
 }
 
@@ -26838,6 +27036,7 @@ body.hide-titlebar-close-btn.is-hidden-frameless .titlebar-inner:hover  .titleba
   padding: 0 10px 0 19px;
   border: 0;
   outline: none;
+  background: transparent;
 }
 
 .view-header-title-container.web-browser-header-bar:hover {
@@ -26846,3 +27045,59 @@ body.hide-titlebar-close-btn.is-hidden-frameless .titlebar-inner:hover  .titleba
   border-radius: 6px;
 }
  /* ====web-browser==== */
+
+ /* ====new style==== */
+body.background-settings-workplace-background-image.workspace > .workspace-leaf, .workspace > .workspace-split {
+  background-color: transparent;
+}
+
+body.background-settings-workplace-background-image .workspace-tab-container-before.is-before-active, 
+body.background-settings-workplace-background-image .workspace-tab-container-after.is-after-active, 
+body.background-settings-workplace-background-image .workspace-tab-header.is-before-active,
+body.background-settings-workplace-background-image .workspace-tab-header.is-after-active,
+body.background-settings-workplace-background-image .workspace-split.mod-right-split .workspace-tabs .workspace-leaf,
+body.background-settings-workplace-background-image   .workspace-split.mod-left-split .workspace-tabs .workspace-leaf,
+body.background-settings-workplace-background-image   .workspace-tab-header-container,
+body.background-settings-workplace-background-image .workspace-leaf-resize-handle {
+  background-color: transparent;
+}
+
+body.background-settings-workplace-background-image .workspace-split.mod-horizontal:is(.mod-left-split,.mod-right-split)  .workspace-tab-header.is-active {
+  background-color:transparent;
+}
+
+body.is-frameless.background-settings-workplace-background-image .workspace-split .workspace-tab-header-container {
+  border-bottom-color: transparent;
+  border-radius: 0;
+}
+body:not(.show-view-header) .workspace-tabs .workspace-leaf .view-content,
+body.show-view-header .view-header{
+  --page-border-bottom: transparent;
+  border-top-left-radius:var(--radius-m);
+  border-top-right-radius: var(--radius-m);
+
+}
+.workspace-split.mod-root .workspace-tab-header-container-inner .workspace-tab-header:first-child {
+  margin-left: 1rem;
+}
+
+body.theme-light .workspace-split.mod-root  .workspace-tab-header.is-active.mod-active {
+  background-image: linear-gradient(to right, var(--background-secondary), transparent);
+}
+.workspace-split.mod-root  .workspace-tab-header.is-active.mod-active {
+  border-color: var(--background-modifier-border);
+  border-style: solid;
+  background-image: linear-gradient(to right, var(--background-primary), transparent);
+  border: none; 
+}
+body.theme-dark:not(.background-settings-workplace-background-image) .workspace-split.mod-horizontal:is(.mod-left-split,.mod-right-split) .workspace-tabs .workspace-leaf-resize-handle {
+  --divider-color: var(--background-primary);
+}
+.workspace-tabs:not(.mod-top) .workspace-tab-header-container {
+  background-color:transparent;
+}
+/*** emoji toolbar**/
+.callout  img.emoji {
+  display: inline-block!important;
+}
+/**emoji toolbar*****/
