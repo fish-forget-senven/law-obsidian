@@ -4,32 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3d987a5972ff3ff5",
+        "id": "0d1bc7bc9812efae",
         "type": "tabs",
         "children": [
           {
-            "id": "94da476292f9e312",
+            "id": "eb517738a4a37726",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课堂笔记/交通诉讼全流程（李斌律师）/第2讲 侵权责任认定实务解析.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "324b15051fe45963",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述（2）.md",
+                "file": "课堂笔记/顶尖婚姻家事律师64个绝密锦囊（张静）/第2讲：如何签好一份婚姻家事案件的委托代理协议？.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -38,19 +23,33 @@
             }
           },
           {
-            "id": "e7f8a56365b2f67d",
+            "id": "398ffe0e9e7da44d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "民法专著/王泽鉴九阴真经/侵权行为/第二编 一般侵权行为/民法第184条第1项前段—故意或过失不法侵害他人之权利/交易往来安全义务（Verkehrspflicht）∶ 社会安全注意义务.md",
+                "file": "法律常用网站、电话、信息等/法律网站.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "5beadf0ca672f4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "正则表达式.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,11 +78,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:(民法典 汇编) line:(一千二百一十七)",
+                "query": "line:(照习俗给付的彩礼的，如果查明属于以下情形)",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -108,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 264
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/交通诉讼全流程（李斌律师）/第2讲 侵权责任认定实务解析.md",
+                "file": "法律常用网站、电话、信息等/法律网站.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课堂笔记/交通诉讼全流程（李斌律师）/第2讲 侵权责任认定实务解析.md"
+                "file": "法律常用网站、电话、信息等/法律网站.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/交通诉讼全流程（李斌律师）/第2讲 侵权责任认定实务解析.md",
+                "file": "法律常用网站、电话、信息等/法律网站.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -206,23 +205,24 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 369.5,
+    "collapsed": true
   },
-  "active": "94da476292f9e312",
+  "active": "398ffe0e9e7da44d",
   "lastOpenFiles": [
-    "课堂笔记/交通诉讼全流程（李斌律师）/第1讲 交通事故认定实务解析.md",
-    "课堂笔记/交通诉讼全流程（李斌律师）/第2讲 侵权责任认定实务解析.md",
-    "民法专著/王泽鉴九阴真经/侵权行为/第二编 一般侵权行为/民法第184条第1项前段—故意或过失不法侵害他人之权利/交易往来安全义务（Verkehrspflicht）∶ 社会安全注意义务.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/法律行为概述（2）.md",
-    "民法专著/王泽鉴九阴真经/侵权行为/第二编 一般侵权行为/民法第184条第1项前段—故意或过失不法侵害他人之权利/相当因果关系.md",
-    "民法专著/王泽鉴九阴真经/台湾民法典相关条文/第217条.md",
-    "民法专著/王泽鉴九阴真经/侵权行为/第一编 绪论/基本理论/侵权行为法与其他损害补偿制度.md",
-    "民法专著/王泽鉴九阴真经/侵权行为/第一编 绪论/侵权行为法的体系/重大过失.md",
-    "课堂笔记/民法笔记/金可可民法/债法总论/履行利益与信赖利益的计算.md",
-    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/意思表示/意思表示之构成要素.md"
+    "正则表达式.md",
+    "法律常用网站、电话、信息等/法律网站.md",
+    "WPS操作技巧/word软件介绍.md",
+    "课堂笔记/顶尖婚姻家事律师64个绝密锦囊（张静）/第2讲：如何签好一份婚姻家事案件的委托代理协议？.md",
+    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于适用《中华人民共和国民法典》婚姻家庭编的解释（一）（2021.1.1）.md",
+    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于审理民间借贷案件适用法律若干问题的规定（2021.1.1）.md",
+    "法律法规汇编/刑法/中华人民共和国刑法.md",
+    "装卷记录/2022.10.26.md",
+    "装卷记录/2022.4.13.md",
+    "实习指导文件/庭审笔录/美特 美芝.md"
   ]
 }
