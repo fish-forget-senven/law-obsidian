@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0d1bc7bc9812efae",
+        "id": "300a50836722a51d",
         "type": "tabs",
         "children": [
           {
-            "id": "eb517738a4a37726",
+            "id": "7fbce798141e3b72",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课堂笔记/顶尖婚姻家事律师64个绝密锦囊（张静）/第2讲：如何签好一份婚姻家事案件的委托代理协议？.md",
-                "mode": "source",
+                "file": "课堂笔记/交通诉讼全流程（李斌律师）/第4讲 交强险理赔实务解析（二）.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -23,26 +23,13 @@
             }
           },
           {
-            "id": "398ffe0e9e7da44d",
+            "id": "472823ed1a17b4a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "法律常用网站、电话、信息等/法律网站.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5beadf0ca672f4a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "正则表达式.md",
-                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -78,9 +65,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(照习俗给付的彩礼的，如果查明属于以下情形)",
+                "query": "line:(飞书)",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
@@ -205,24 +192,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
     "width": 369.5,
     "collapsed": true
   },
-  "active": "398ffe0e9e7da44d",
+  "active": "b57a777019d28a35",
   "lastOpenFiles": [
-    "正则表达式.md",
-    "法律常用网站、电话、信息等/法律网站.md",
-    "WPS操作技巧/word软件介绍.md",
-    "课堂笔记/顶尖婚姻家事律师64个绝密锦囊（张静）/第2讲：如何签好一份婚姻家事案件的委托代理协议？.md",
-    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于适用《中华人民共和国民法典》婚姻家庭编的解释（一）（2021.1.1）.md",
-    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于审理民间借贷案件适用法律若干问题的规定（2021.1.1）.md",
-    "法律法规汇编/刑法/中华人民共和国刑法.md",
-    "装卷记录/2022.10.26.md",
-    "装卷记录/2022.4.13.md",
-    "实习指导文件/庭审笔录/美特 美芝.md"
+    "课堂笔记/交通诉讼全流程（李斌律师）/第4讲 交强险理赔实务解析（二）.md",
+    "法律法规汇编/民商法/民法典/第七编 侵权责任.md",
+    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释(2021.1.1).md",
+    "法律法规汇编/行政法/机动车交通事故责任强制保险条例.md",
+    "法律法规汇编/中华人民共和国道路交通安全法.md",
+    "课堂笔记/交通诉讼全流程（李斌律师）/第4讲 交强险理赔实务解析（一）.md",
+    "课堂笔记/交通诉讼全流程（李斌律师）/第3讲 侵权责任主体确定实务解析（三）.md",
+    "课堂笔记/交通诉讼全流程（李斌律师）/第3讲 侵权责任主体确定实务解析（二）.md",
+    "法律法规汇编/民商法/民法典/第三编 合同.md",
+    "法律法规汇编/民商法/民法典/第二编 物权.md"
   ]
 }
