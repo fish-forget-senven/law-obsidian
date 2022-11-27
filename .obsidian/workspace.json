@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -112,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/试用期维权指南和风险管控宝典/15.单位调整员工岗位，可以再次约定试用期吗？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/试用期维权指南和风险管控宝典/15.单位调整员工岗位，可以再次约定试用期吗？.md"
+              }
             }
           },
           {
@@ -152,6 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/试用期维权指南和风险管控宝典/15.单位调整员工岗位，可以再次约定试用期吗？.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +202,7 @@
     "width": 369.5,
     "collapsed": true
   },
-  "active": "1830a5846d4f8d3d",
+  "active": "ce23a4cd55b72f22",
   "lastOpenFiles": [
     "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/导论.md",
     "法律法规汇编/劳动法/中华人民共和国劳动合同法.md",
