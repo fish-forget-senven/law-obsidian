@@ -2,7 +2,8 @@
   "baseFontSize": 17,
   "translucency": false,
   "theme": "moonstone",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "",
   "accentColor": "",
-  "textFontFamily": ""
+  "textFontFamily": "",
+  "nativeMenus": true
 }

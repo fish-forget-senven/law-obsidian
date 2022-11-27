@@ -123,25 +123,6 @@
       "icon": "highlight-glyph"
     },
     {
-      "id": "Enhanced-editing:del-lines",
-      "name": "ZH增强编辑: 批量去除空行",
-      "hotkeys": [
-        {
-          "modifiers": [
-            "Mod",
-            "Alt"
-          ],
-          "key": "l"
-        }
-      ],
-      "icon": "cross"
-    },
-    {
-      "id": "Enhanced-editing:del-allSpspace",
-      "name": "ZH增强编辑: 去除所有空格",
-      "icon": "cross"
-    },
-    {
       "id": "Enhanced-editing:edit-duanhang",
       "name": "ZH增强编辑: 修复意外断行",
       "icon": "merge-files-glyph"

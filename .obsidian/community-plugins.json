@@ -8,7 +8,6 @@
   "search-on-internet",
   "dataview",
   "obsidian-git",
-  "cmenu-plugin",
   "Enhanced-editing",
   "recent-files-obsidian",
   "templater-obsidian",
@@ -17,5 +16,7 @@
   "obsidian42-strange-new-worlds",
   "omnisearch",
   "obsidian-style-settings",
+  "obsidian-outliner",
+  "cmenu-plugin",
   "obsidian-hover-editor"
 ]
