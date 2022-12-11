@@ -4,17 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "2346363f6ce82de3",
+        "id": "fb8393ab4883add4",
         "type": "tabs",
         "children": [
           {
-            "id": "77a89d9ebaaa779a",
+            "id": "4f55c2e97e7afa68",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "正则表达式.md",
+                "file": "实务书籍/婚姻家事律师养成手册（张静，2021）/第二部分 诉讼/第三章 接案.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "01b5a801763070b7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "法律法规汇编/律师职业道德类/律师和律师事务所违法行为处罚办法.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -23,13 +38,43 @@
             }
           },
           {
-            "id": "c40430fb8e9ca1e3",
+            "id": "fd6eb522417420e4",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/试用期维权指南和风险管控宝典/19.试用期工资可以低于最低工资标准吗？.md",
+                "file": "实习指导文件/实习面试题库/简答题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dcd07cb12a2bd522",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "法律法规汇编/律师职业道德类/申请律师执业人员实习管理规则.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f14679c589e7caa1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实习指导文件/实习面试题库/实习律师面试考核题目（法律实务部分）.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -38,12 +83,12 @@
             }
           },
           {
-            "id": "53ca6bcb5cc1a815",
+            "id": "1ad5c32881c67cb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/导论.md",
+                "file": "实习指导文件/实习面试题库/实习面试题库（2021）.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -51,7 +96,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -80,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(试用期) path:(汇编  劳动)",
+                "query": "line:(侦查 律师) path:(实习)",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -109,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 224.5
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -125,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/导论.md",
+                "file": "实习指导文件/实习面试题库/实习面试题库（2021）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,24 +187,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/导论.md"
+                "file": "实习指导文件/实习面试题库/实习面试题库（2021）.md"
               }
-            }
-          },
-          {
-            "id": "be6057bc4725cd03",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "dd3ef684f34625b7",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
             }
           },
           {
@@ -168,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/导论.md",
+                "file": "实习指导文件/实习面试题库/实习面试题库（2021）.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -205,26 +234,34 @@
               "type": "Strange New Worlds",
               "state": {}
             }
+          },
+          {
+            "id": "ded374702989d6af",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 369.5,
     "collapsed": true
   },
-  "active": "53ca6bcb5cc1a815",
+  "active": "1ad5c32881c67cb1",
   "lastOpenFiles": [
-    "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/试用期维权指南和风险管控宝典/14.单位可以随意延长试用期吗？.md",
-    "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/导论.md",
-    "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/招聘录用维权指南和风险控制宝典/8.单位撤销录用通知书，需要赔偿吗？.md",
-    "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/大学生就业维权指南和风险控制宝典/6.大学生和单位签订三方协议违约，需要承担违约金吗？.mp4.md",
-    "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/试用期维权指南和风险管控宝典/19.试用期工资可以低于最低工资标准吗？.md",
-    "微信公众号摘录/劳动争议/值得收藏！31省最新汇总：最低工资包含五险一金吗？.md",
-    "法律法规汇编/劳动法/中华人民共和国劳动合同法.md",
-    "课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/试用期维权指南和风险管控宝典/18.试用期工资是否可以低于转正后工资80%？.md",
-    "法律法规汇编/劳动法/中华人民共和国劳动法.md",
-    "法律法规汇编/劳动法/工资支付暂行规定.md"
+    "实习指导文件/实习面试题库/简答题.md",
+    "实习指导文件/实习面试题库/实习律师面试问题及参考答案.md",
+    "实习指导文件/实习面试题库/实习律师面试考核题目（法律实务部分）.md",
+    "实习指导文件/实习面试题库/2019年12月实习律师面试考核题目（职业道德和职业纪律部分）.md",
+    "实习指导文件/实习面试题库/2019年12月实习律师面试考核题目（沟通协调和应变能力部分）.md",
+    "法律法规汇编/律师职业道德类/申请律师执业人员实习管理规则.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/第一节 民事义务及相关现象.md",
+    "法律法规汇编/律师职业道德类/中华人民共和国律师法.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/（二）请求权.md",
+    "法律法规汇编/民商法/民法典/第三编 合同.md"
   ]
 }

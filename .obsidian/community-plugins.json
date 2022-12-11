@@ -9,13 +9,12 @@
   "dataview",
   "obsidian-git",
   "Enhanced-editing",
-  "recent-files-obsidian",
   "templater-obsidian",
   "obsidian-minimal-settings",
   "obsidian-day-planner",
   "obsidian42-strange-new-worlds",
-  "omnisearch",
   "obsidian-style-settings",
   "obsidian-outliner",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "recent-files-obsidian"
 ]

@@ -8,38 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:(王泽鉴 侵权)",
+      "query": "path:(游本春)",
       "color": {
         "a": 1,
         "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:(王泽鉴 民法总则)",
-      "color": {
-        "a": 1,
-        "rgb": 14796615
-      }
-    },
-    {
-      "query": "path:(台湾 民法典)",
-      "color": {
-        "a": 1,
-        "rgb": 4014811
-      }
-    },
-    {
-      "query": "path:法律法规汇编",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "path:(韩世远)",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
       }
     }
   ],
@@ -53,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.04231590268975931,
-  "close": true
+  "scale": 0.634628567693061,
+  "close": false
 }
