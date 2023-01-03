@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"09e1ce956da27828","x":-296,"y":-82,"width":250,"height":60,"color":"1","type":"text","text":"2014年12月8日"},
+		{"id":"cb017818de7e75f0","x":59,"y":-82,"width":250,"height":60,"color":"1","type":"text","text":"2015年2月9日"},
+		{"id":"986f6dfc2b64e1e9","x":408,"y":-82,"width":250,"height":60,"color":"1","type":"text","text":"2015年2月11日"},
+		{"id":"ae0ca414470a562c","x":786,"y":-82,"width":250,"height":60,"color":"1","type":"text","text":"2015年3月24日"},
+		{"id":"6b866a7b73c7680b","x":1165,"y":-82,"width":250,"height":60,"color":"1","type":"text","text":"2015年4月29日"},
+		{"id":"5d54b01fe7c1c70f","x":-296,"y":23,"width":250,"height":110,"color":"5","type":"text","text":"D以个人名义购买XX花园二区XX号房屋，房款总计23179159元。"},
+		{"id":"0f2b8f08e48a18d9","x":408,"y":48,"width":250,"height":60,"color":"5","type":"text","text":"原、被告在XX区民政局登记结婚"},
+		{"id":"729bc5adff6edc13","x":786,"y":23,"width":250,"height":263,"color":"5","type":"text","text":"J分两笔向XX房地产开发有限公司支付房款共计6743748元。\n\n第一笔：招商银行转款2643748元；\n\n第二笔：建设银行转款4100000元。"},
+		{"id":"b3f2c3b9710f3b7d","x":1165,"y":23,"width":250,"height":347,"color":"5","type":"text","text":"J分三笔向XX房地产开发有限公司支付房款共计14000000元。\n\n第一笔：建设银行转款5000000元；\n\n第二笔：建设银行转款5000000元；\n\n第三笔：建设银行转款4000000元。"},
+		{"id":"d5d1c1cbf32937ec","x":59,"y":23,"width":250,"height":110,"color":"5","type":"text","text":"W通过农业银行向XX房地产开发有限公司支付部分房款2435411元"}
+	],
+	"edges":[
+		{"id":"812f5ee661eb7885","fromNode":"09e1ce956da27828","fromSide":"right","toNode":"cb017818de7e75f0","toSide":"left"},
+		{"id":"2bc14b31195e4b93","fromNode":"cb017818de7e75f0","fromSide":"right","toNode":"986f6dfc2b64e1e9","toSide":"left"},
+		{"id":"a41719372c7a5138","fromNode":"986f6dfc2b64e1e9","fromSide":"right","toNode":"ae0ca414470a562c","toSide":"left"},
+		{"id":"3b0c1e1f4bb09106","fromNode":"ae0ca414470a562c","fromSide":"right","toNode":"6b866a7b73c7680b","toSide":"left"},
+		{"id":"8f52a5da04430e08","fromNode":"09e1ce956da27828","fromSide":"bottom","toNode":"5d54b01fe7c1c70f","toSide":"top"},
+		{"id":"68f9fbdaa19db4d3","fromNode":"cb017818de7e75f0","fromSide":"bottom","toNode":"d5d1c1cbf32937ec","toSide":"top"},
+		{"id":"a01e11592f0f1e8f","fromNode":"986f6dfc2b64e1e9","fromSide":"bottom","toNode":"0f2b8f08e48a18d9","toSide":"top"},
+		{"id":"c2462d8a0a833a55","fromNode":"ae0ca414470a562c","fromSide":"bottom","toNode":"729bc5adff6edc13","toSide":"top"},
+		{"id":"6a751010fa93aecb","fromNode":"6b866a7b73c7680b","fromSide":"bottom","toNode":"b3f2c3b9710f3b7d","toSide":"top"}
+	]
+}

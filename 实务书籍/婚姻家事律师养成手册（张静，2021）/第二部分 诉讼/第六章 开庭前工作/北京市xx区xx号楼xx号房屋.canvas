@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"7e21b6934f1be52b","x":-230,"y":-263,"width":250,"height":60,"color":"5","type":"text","text":"xx"},
+		{"id":"01894da2d22b9288","x":307,"y":-263,"width":250,"height":60,"color":"5","type":"text","text":"开发商"},
+		{"id":"089a19030590cde6","x":307,"y":21,"width":250,"height":50,"color":"5","type":"text","text":"xx"},
+		{"id":"700b0ef933b975b1","x":-230,"y":16,"width":250,"height":60,"color":"5","type":"text","text":"xx公司"},
+		{"id":"1f7fd616cfadaf4c","x":783,"y":16,"width":250,"height":60,"color":"5","type":"text","text":"银行"},
+		{"id":"2d33aed3bab1124b","x":-254,"y":-302,"width":834,"height":132,"color":"3","type":"group","label":"2004年6月20日 婚前"},
+		{"id":"5bb8806721307144","x":-254,"y":-21,"width":1322,"height":141,"color":"3","type":"group","label":"2004年10月——2006年8月3日  婚前还贷  共计231934.18元  （原告证据58）"},
+		{"id":"9b5a84022f9b4066","x":-254,"y":433,"width":1322,"height":289,"color":"3","type":"group","label":"2006年9月——2016年3月  婚后还贷共计1025037.9元（原告证据58）"},
+		{"id":"b632b736e14d4d0c","x":783,"y":579,"width":250,"height":60,"color":"5","type":"text","text":"银行"},
+		{"id":"0985374f4b59d32e","x":307,"y":457,"width":250,"height":60,"color":"5","type":"text","text":"原告证据22、29"},
+		{"id":"efd132ca8ad75b36","x":307,"y":579,"width":250,"height":60,"color":"5","type":"text","text":"xx"},
+		{"id":"80655deec1f9204c","x":-230,"y":575,"width":250,"height":60,"color":"5","type":"text","text":"xx公司"},
+		{"id":"746c89932c1d96d8","x":-230,"y":231,"width":250,"height":60,"color":"5","type":"text","text":"2006年8月9日xx与xx结婚"},
+		{"id":"8b43d53fb12c4d9e","x":-230,"y":851,"width":250,"height":60,"color":"5","type":"text","text":"xx公司全称：xx有限公司"}
+	],
+	"edges":[
+		{"id":"4046682d02ab898a","fromNode":"7e21b6934f1be52b","fromSide":"right","toNode":"01894da2d22b9288","toSide":"left","label":"首付款\n1279055元"},
+		{"id":"52442dc531626c65","fromNode":"700b0ef933b975b1","fromSide":"right","toNode":"089a19030590cde6","toSide":"left"},
+		{"id":"b86e368a3be05584","fromNode":"089a19030590cde6","fromSide":"right","toNode":"1f7fd616cfadaf4c","toSide":"left"},
+		{"id":"3c60fe6717dec5f4","fromNode":"80655deec1f9204c","fromSide":"right","toNode":"efd132ca8ad75b36","toSide":"left"},
+		{"id":"19803902c6124ddc","fromNode":"efd132ca8ad75b36","fromSide":"right","toNode":"b632b736e14d4d0c","toSide":"left"},
+		{"id":"c25b7b68c94664f6","fromNode":"efd132ca8ad75b36","fromSide":"top","toNode":"0985374f4b59d32e","toSide":"bottom"},
+		{"id":"49f733b51f2fb0c1","fromNode":"2d33aed3bab1124b","fromSide":"bottom","toNode":"5bb8806721307144","toSide":"top"},
+		{"id":"18252a18b2c3d639","fromNode":"5bb8806721307144","fromSide":"bottom","toNode":"746c89932c1d96d8","toSide":"top"},
+		{"id":"ad14586aba53733a","fromNode":"746c89932c1d96d8","fromSide":"bottom","toNode":"9b5a84022f9b4066","toSide":"top"}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"092371c3b4daf709","x":451,"y":-205,"width":250,"height":85,"color":"5","type":"text","text":"xx\n民生银行"},
+		{"id":"d67c4ce87b8abb7c","x":1144,"y":-187,"width":250,"height":50,"color":"5","type":"text","text":"开发商：xx有限公司"},
+		{"id":"8b18e69b121ba477","x":-389,"y":-263,"width":1881,"height":188,"color":"3","type":"group","label":"2010年5月12日"},
+		{"id":"53a43d38fb6aa077","x":-316,"y":-192,"width":250,"height":72,"color":"5","type":"text","text":" 林xx\n 民生银行卡9899"},
+		{"id":"7a238acbc920c9eb","x":-323,"y":732,"width":250,"height":60,"color":"5","type":"text","text":"林xx\n民生银行9899"},
+		{"id":"91ecd105732c9952","x":-389,"y":115,"width":1783,"height":288,"color":"3","type":"group","label":"2010年5月14日"},
+		{"id":"d54bc75839765b78","x":1105,"y":236,"width":133,"height":50,"color":"5","type":"text","text":"开发商"},
+		{"id":"12ad554242482c90","x":324,"y":261,"width":250,"height":60,"color":"5","type":"text","text":"xx\n招商银行卡3233"},
+		{"id":"0a82ff63bf26a902","x":291,"y":169,"width":326,"height":194,"color":"4","type":"group","label":"银行卡"},
+		{"id":"fb8bc2f9a3475741","x":324,"y":201,"width":250,"height":60,"color":"5","type":"text","text":"xx\n招商银行卡7001"},
+		{"id":"36f603b966d1dabb","x":-351,"y":231,"width":125,"height":60,"color":"5","type":"text","text":"林xx"},
+		{"id":"a4d623276bed200f","x":324,"y":732,"width":250,"height":60,"color":"5","type":"text","text":"xx\n民生银行"},
+		{"id":"4be83714de3b1b7e","x":1047,"y":732,"width":250,"height":60,"color":"5","type":"text","text":"开发商"},
+		{"id":"cba8201c50115c94","x":-389,"y":602,"width":1783,"height":318,"color":"3","type":"group","label":"2010年5月18日"}
+	],
+	"edges":[
+		{"id":"d96fea66113a0e6d","fromNode":"092371c3b4daf709","fromSide":"right","toNode":"d67c4ce87b8abb7c","toSide":"left","label":"原告证据9（P2）\n汇款"},
+		{"id":"71a7dcb5bfd0d010","fromNode":"53a43d38fb6aa077","fromSide":"right","toNode":"092371c3b4daf709","toSide":"left","label":"原告证据9（P1）\n358178元\n现金"},
+		{"id":"b59a8e69e53f342a","fromNode":"36f603b966d1dabb","fromSide":"right","toNode":"0a82ff63bf26a902","toSide":"left","label":"被告证据\n5万元\n现金"},
+		{"id":"4282ce9f7c0d8ad0","fromNode":"0a82ff63bf26a902","fromSide":"right","toNode":"d54bc75839765b78","toSide":"left","label":"5月15日\n被告证据7"},
+		{"id":"7ee3334177a65806","fromNode":"7a238acbc920c9eb","fromSide":"right","toNode":"a4d623276bed200f","toSide":"left","label":"原告证据11（P1）\n59万元\n现金"},
+		{"id":"13ce27805fce227f","fromNode":"a4d623276bed200f","fromSide":"right","toNode":"4be83714de3b1b7e","toSide":"left","label":"原告证据11（P2）\n汇款"}
+	]
+}

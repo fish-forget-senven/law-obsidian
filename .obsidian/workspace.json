@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "205b7de68d6fe816",
+            "id": "02cf8d7da2582ff2",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实务书籍/婚姻家事律师养成手册（张静，2021）/第二部分 诉讼/第四章 接案后准备工作/第二节 证据准备.md",
-                "mode": "source",
+                "file": "实务书籍/婚姻家事律师养成手册（张静，2021）/第二部分 诉讼/第六章 开庭前工作/第二节 证据的整理完善.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -23,19 +23,20 @@
             }
           },
           {
-            "id": "6bbc6d8144c2b9ce",
+            "id": "46e5848eb762a433",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "实务书籍/婚姻家事律师养成手册（张静，2021）/第一部分 案源和咨询/第二章 首次咨询.md",
-                "mode": "source",
+                "file": "民法专著/王泽鉴九阴真经/民法总则/权利的变动/意思与表示不一致.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "证据形式及注意事项",
+                "query": "tag:#案例/王泽鉴九阴真经/民法总则",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -94,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实务书籍/婚姻家事律师养成手册（张静，2021）/第二部分 诉讼/第四章 接案后准备工作/第二节 证据准备.md",
+                "file": "民法专著/王泽鉴九阴真经/民法总则/权利的变动/意思与表示不一致.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "实务书籍/婚姻家事律师养成手册（张静，2021）/第二部分 诉讼/第四章 接案后准备工作/第二节 证据准备.md"
+                "file": "民法专著/王泽鉴九阴真经/民法总则/权利的变动/意思与表示不一致.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实务书籍/婚姻家事律师养成手册（张静，2021）/第二部分 诉讼/第四章 接案后准备工作/第二节 证据准备.md",
+                "file": "民法专著/王泽鉴九阴真经/民法总则/权利的变动/意思与表示不一致.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -185,24 +185,37 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 369.5,
     "collapsed": true
   },
-  "active": "205b7de68d6fe816",
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "222cdecfd3bc4699",
   "lastOpenFiles": [
-    "实务书籍/婚姻家事律师养成手册（张静，2021）/第一部分 案源和咨询/第二章 首次咨询.md",
-    "实务书籍/婚姻家事律师养成手册（张静，2021）/第二部分 诉讼/第四章 接案后准备工作/第二节 证据准备.md",
-    "法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于适用《中华人民共和国民法典》婚姻家庭编的解释（一）（2021.1.1）.md",
-    "法律法规汇编/刑法/中华人民共和国刑法.md",
-    "法律法规汇编/民商法/民法典/第五编 婚姻家庭.md",
-    "实务书籍/婚姻家事律师养成手册（张静，2021）/第二部分 诉讼/第四章 接案后准备工作/目录.md",
-    "实务书籍/婚姻家事律师养成手册（张静，2021）/第二部分 诉讼/第四章 接案后准备工作/第一节 接案后文书起草.md",
-    "法律法规汇编/民商法/民法典/第六编 继承.md",
-    "法律法规汇编/诉讼法/民诉法/中华人民共和国民事诉讼法.md",
-    "法律法规汇编/诉讼法/民诉法/最高人民法院关于适用《中华人民共和国民事诉讼法》的解释.md"
+    "课堂笔记/民法笔记/金可可民法/民法总则/民法之调整对象.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民事权利与义务/（二）请求权.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/民法总论之体系构成.md",
+    "刑事合规/企业合规基本理论（第三版）陈瑞华/第一章 企业合规的性质.md",
+    "刑事合规/企业合规基本理论（第三版）陈瑞华/引言.md",
+    "汉dmi电池质保里程记录.md",
+    "任务清单.md",
+    "未命名.md",
+    "实务书籍/建设工程合同纠纷/法院审理建设工程案件观点集成（第一版，2015朱树英）/第一章 施工合同的主体/三、联合体投标及联合承包实务中须注意的问题.md",
+    "课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/要物行为（实践行为）、不要物行为（诺成行为）.md"
   ]
 }
