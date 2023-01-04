@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"97463a12df67bfd9","x":-216,"y":-268,"width":250,"height":60,"color":"5","type":"text","text":"xx公司"},
+		{"id":"b6226d6190a508a2","x":325,"y":-268,"width":250,"height":60,"color":"5","type":"text","text":"xx\n招商银行7001"},
+		{"id":"e336ece562549a33","x":849,"y":-268,"width":250,"height":60,"color":"5","type":"text","text":"车商"},
+		{"id":"102702d38e1ec578","x":-251,"y":-301,"width":1387,"height":125,"color":"3","type":"group","label":"2012年9月19日"},
+		{"id":"cf036d1e0f151631","x":325,"y":-76,"width":250,"height":60,"color":"5","type":"text","text":"xx\n建行信用卡4418"},
+		{"id":"aebe8469953f5385","x":849,"y":-76,"width":250,"height":60,"color":"5","type":"text","text":"车商"},
+		{"id":"cd917ef5388841c2","x":-216,"y":-76,"width":250,"height":60,"color":"5","type":"text","text":"xx公司"}
+	],
+	"edges":[
+		{"id":"305a5e63d1440cef","fromNode":"97463a12df67bfd9","fromSide":"right","toNode":"b6226d6190a508a2","toSide":"left","label":"原告证据37\n40万元"},
+		{"id":"321c0b06b74a8dfe","fromNode":"b6226d6190a508a2","fromSide":"right","toNode":"e336ece562549a33","toSide":"left","label":"首付298282元"},
+		{"id":"59e497ef53234ae3","fromNode":"cd917ef5388841c2","fromSide":"right","toNode":"cf036d1e0f151631","toSide":"left","label":"原告证据27、29\n按还款金额按月支付"},
+		{"id":"d88fdc619088195a","fromNode":"cf036d1e0f151631","fromSide":"right","toNode":"aebe8469953f5385","toSide":"left","label":"按月还款"}
+	]
+}

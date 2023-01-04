@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"e9ee27cc5ee77960","x":-183,"y":-221,"width":250,"height":60,"color":"5","type":"text","text":"xx公司"},
+		{"id":"011a0aca74ff802f","x":355,"y":-221,"width":250,"height":60,"color":"5","type":"text","text":"车商"},
+		{"id":"cc071d53f7f54d4d","x":-221,"y":-254,"width":864,"height":132,"color":"3","type":"group","label":"2016年6月20日"}
+	],
+	"edges":[
+		{"id":"578065ed698f8b22","fromNode":"e9ee27cc5ee77960","fromSide":"right","toNode":"011a0aca74ff802f","toSide":"left","label":"原告证据38、59、60\n82000元"}
+	]
+}

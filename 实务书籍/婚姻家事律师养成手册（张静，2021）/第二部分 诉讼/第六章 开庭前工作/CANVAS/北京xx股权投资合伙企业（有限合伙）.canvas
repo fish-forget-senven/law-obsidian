@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"a5b0b0e7048292ab","x":-174,"y":-152,"width":250,"height":60,"color":"5","type":"text","text":"股东"},
+		{"id":"086ec8d21386b77c","x":390,"y":-152,"width":250,"height":60,"color":"5","type":"text","text":"公司"}
+	],
+	"edges":[
+		{"id":"855ad771ddfcd594","fromNode":"a5b0b0e7048292ab","fromSide":"right","toNode":"086ec8d21386b77c","toSide":"left","label":"原告证据31\n未出资"}
+	]
+}

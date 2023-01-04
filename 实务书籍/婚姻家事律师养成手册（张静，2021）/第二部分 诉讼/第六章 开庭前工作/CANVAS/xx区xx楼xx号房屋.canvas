@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"64668b1cff71cac8","x":-246,"y":-241,"width":250,"height":60,"color":"5","type":"text","text":"xxx"},
+		{"id":"b9704585491a175c","x":230,"y":-241,"width":250,"height":60,"color":"5","type":"text","text":"开发商"},
+		{"id":"e0db364433e7fea2","x":-269,"y":-267,"width":792,"height":118,"color":"3","type":"group","label":"2005年7月28日，婚前"},
+		{"id":"cb33e6ab046f0c16","x":-246,"y":47,"width":250,"height":60,"color":"5","type":"text","text":"xxx"},
+		{"id":"bd12493b915ddc7d","x":230,"y":47,"width":250,"height":60,"color":"5","type":"text","text":"银行"},
+		{"id":"42549282f849553b","x":-276,"y":-5,"width":799,"height":159,"color":"3","type":"group","label":"婚前还贷共计39392.83元"},
+		{"id":"3b31241b4da997cd","x":-246,"y":464,"width":250,"height":60,"color":"5","type":"text","text":"xx公司"},
+		{"id":"7b8b4e4ea70a1344","x":230,"y":464,"width":250,"height":60,"color":"5","type":"text","text":"xxx"},
+		{"id":"15b8c89de25c8e30","x":230,"y":334,"width":250,"height":60,"color":"5","type":"text","text":"原告证据29"},
+		{"id":"ca0f168674eb2a10","x":694,"y":464,"width":250,"height":60,"color":"5","type":"text","text":"银行"},
+		{"id":"78eb77781aff3df0","x":-268,"y":295,"width":1251,"height":318,"color":"3","type":"group","label":"婚后还贷 2006年8月——2013年12月  共计344032.07元"},
+		{"id":"e01ad481a35577d1","x":-246,"y":818,"width":250,"height":60,"color":"5","type":"text","text":"夫妻共同财产"},
+		{"id":"86d09dc35dcd8d3d","x":230,"y":818,"width":250,"height":60,"color":"5","type":"text","text":"银行"},
+		{"id":"fc7d24a469a6e176","x":-268,"y":759,"width":791,"height":175,"color":"3","type":"group","label":"2014年1月至今"}
+	],
+	"edges":[
+		{"id":"3d97103c388f91ff","fromNode":"64668b1cff71cac8","fromSide":"right","toNode":"b9704585491a175c","toSide":"left","label":"首付\n197437元"},
+		{"id":"ae8f8d6c4e02c803","fromNode":"cb33e6ab046f0c16","fromSide":"right","toNode":"bd12493b915ddc7d","toSide":"left"},
+		{"id":"d09b16ee69fd274d","fromNode":"3b31241b4da997cd","fromSide":"right","toNode":"7b8b4e4ea70a1344","toSide":"left"},
+		{"id":"cbf5372a13179827","fromNode":"7b8b4e4ea70a1344","fromSide":"right","toNode":"ca0f168674eb2a10","toSide":"left"},
+		{"id":"8205c77c5bc3a333","fromNode":"7b8b4e4ea70a1344","fromSide":"top","toNode":"15b8c89de25c8e30","toSide":"bottom"},
+		{"id":"c25edd8ec0e14199","fromNode":"e01ad481a35577d1","fromSide":"right","toNode":"86d09dc35dcd8d3d","toSide":"left"}
+	]
+}

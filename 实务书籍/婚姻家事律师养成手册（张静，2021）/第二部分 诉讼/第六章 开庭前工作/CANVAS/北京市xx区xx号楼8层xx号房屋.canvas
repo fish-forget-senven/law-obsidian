@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"c9eafdbe7350743a","x":-256,"y":-230,"width":250,"height":60,"color":"5","type":"text","text":"哥哥\n招商银行卡5634"},
+		{"id":"8e98fa6d6428a2d2","x":453,"y":-230,"width":250,"height":60,"color":"5","type":"text","text":"开发商"},
+		{"id":"2b5b7cfeec6f26ad","x":-318,"y":-278,"width":1054,"height":164,"color":"3","type":"group","label":"2022.3.19"},
+		{"id":"a197a37f412c5486","x":-256,"y":116,"width":250,"height":60,"color":"5","type":"text","text":"xx持xx名义的还贷卡0137"},
+		{"id":"ec4cef7200350485","x":453,"y":116,"width":250,"height":60,"color":"5","type":"text","text":"银行"},
+		{"id":"91c84b591ea51a1f","x":-256,"y":463,"width":250,"height":60,"color":"5","type":"text","text":"12月4日  26万"},
+		{"id":"c0c4f2697220cc25","x":-256,"y":658,"width":250,"height":60,"color":"5","type":"text","text":"12月18日  16万"},
+		{"id":"e919134c11e4d36c","x":-297,"y":441,"width":400,"height":321,"color":"1","type":"group","label":"汇款"},
+		{"id":"7a21fd6c23b35722","x":453,"y":559,"width":250,"height":62,"color":"5","type":"text","text":"xx\n建设银行卡3163"},
+		{"id":"6c851d21864ef956","x":1035,"y":561,"width":250,"height":60,"color":"5","type":"text","text":"xx\n建设银行卡0131"},
+		{"id":"9a68b4d4cd970e52","x":1641,"y":561,"width":250,"height":60,"color":"5","type":"text","text":"银行"},
+		{"id":"952dbe428d13c6bf","x":-358,"y":390,"width":2308,"height":400,"color":"3","type":"group","label":"最后一次性还贷"}
+	],
+	"edges":[
+		{"id":"e0a34e9085f9d9de","fromNode":"c9eafdbe7350743a","fromSide":"right","toNode":"8e98fa6d6428a2d2","toSide":"left","label":"原告证据33（P2）\n首付款134445元\n现金"},
+		{"id":"4ad1169cd7be86c8","fromNode":"a197a37f412c5486","fromSide":"right","toNode":"ec4cef7200350485","toSide":"left","label":"所有还贷"},
+		{"id":"5878ee9714ef5e8e","fromNode":"e919134c11e4d36c","fromSide":"right","toNode":"7a21fd6c23b35722","toSide":"left","label":"原告证据57（P1）"},
+		{"id":"e2284b15a2955f1e","fromNode":"7a21fd6c23b35722","fromSide":"right","toNode":"6c851d21864ef956","toSide":"left","label":"2009年1月15日\n391152.49元\n原告证据34、57"},
+		{"id":"c390aeab5343aaa2","fromNode":"6c851d21864ef956","fromSide":"right","toNode":"9a68b4d4cd970e52","toSide":"left","label":"2009年1月15日\n391152.49元\n证据34"}
+	]
+}

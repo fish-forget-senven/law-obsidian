@@ -232,6 +232,11 @@
       "id": "file-explorer:reveal-active-file",
       "name": "文件列表: 在文件列表中显示当前文件",
       "icon": "lucide-navigation"
+    },
+    {
+      "id": "Enhanced-editing:fan-jian",
+      "name": "ZH增强编辑: 繁体转简",
+      "icon": "languages"
     }
   ],
   "appendMethod": "workspace",

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3e41ecef670c1649","x":-158,"y":-232,"width":250,"height":60,"color":"5","type":"text","text":"林xx\n民生银行9899"},
+		{"id":"8fc701ec150a4a2f","x":544,"y":-232,"width":250,"height":60,"color":"5","type":"text","text":"xx\n民生银行7747"},
+		{"id":"a743ea08c482e78a","x":1225,"y":-232,"width":250,"height":60,"color":"5","type":"text","text":"公司"}
+	],
+	"edges":[
+		{"id":"fee05f2f762835ab","fromNode":"3e41ecef670c1649","fromSide":"right","toNode":"8fc701ec150a4a2f","toSide":"left","label":"原告证据9、30\n513000元（51万+3000手续费）"},
+		{"id":"dcd66eb7180f706f","fromNode":"8fc701ec150a4a2f","fromSide":"right","toNode":"a743ea08c482e78a","toSide":"left","label":"xx代持其中20%股份（10.2万元）"}
+	]
+}
