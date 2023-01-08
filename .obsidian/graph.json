@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:(张静 OR 汇编)",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:(游本春)",
+      "query": "path:(张静)",
       "color": {
         "a": 1,
         "rgb": 14048348
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.07680290438277347,
+  "scale": 0.6346285676930612,
   "close": false
 }

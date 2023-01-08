@@ -237,6 +237,11 @@
       "id": "Enhanced-editing:fan-jian",
       "name": "ZH增强编辑: 繁体转简",
       "icon": "languages"
+    },
+    {
+      "id": "Enhanced-editing:edit-duanhang",
+      "name": "ZH增强编辑: 修复意外断行",
+      "icon": "bot-glyph"
     }
   ],
   "appendMethod": "workspace",
@@ -244,7 +249,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 554,
+  "cMenuWidth": 606,
   "cMenuFontColor": "#2DC26B",
   "cMenuBackgroundColor": "#d3f8b6",
   "autohide": false
