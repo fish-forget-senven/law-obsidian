@@ -7,7 +7,6 @@
   "mx-bili-plugin",
   "search-on-internet",
   "dataview",
-  "obsidian-git",
   "Enhanced-editing",
   "templater-obsidian",
   "obsidian-minimal-settings",
@@ -18,5 +17,6 @@
   "recent-files-obsidian",
   "obsidian42-brat",
   "editing-toolbar",
-  "obsidian-excel-to-markdown-table"
+  "obsidian-excel-to-markdown-table",
+  "obsidian-git"
 ]
