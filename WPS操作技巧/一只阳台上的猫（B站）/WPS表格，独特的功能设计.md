@@ -13,7 +13,7 @@
 合并居中，不符合标准数据源样式（[06:03](https://www.bilibili.com/video/BV1fe411N7cJ?p=4&vd_source=74872e41274c3d29495fcb0f1ba131bd#t=363.823264)解决方法）
 
 [08:25](https://www.bilibili.com/video/BV1fe411N7cJ?p=4&vd_source=74872e41274c3d29495fcb0f1ba131bd#t=505.649935)
-插入，特有功能[[WPS操作技巧/一只阳台上的猫（B站）/WPS表格，独特的功能设计#^le82gh|照相机]]，可以帮助我们监控一些数据点，尤其是在一个工作簿的多个工作表中。
+插入，特有功能[[WPS操作技巧/一只阳台上的猫（B站）/WPS表格，独特的功能设计#^le82gh|照相机]]，可以帮助我们监控一些数据点，尤其是在一个工作簿的多个工作表中。 ^n5r842
 
 [09:12](https://www.bilibili.com/video/BV1fe411N7cJ?p=4&vd_source=74872e41274c3d29495fcb0f1ba131bd#t=552.71247)
 页面布局，将大表格打印在一页
@@ -31,7 +31,7 @@ vlookup，后续也会详细讲。
 数据菜单介绍，拒绝录入重复项（设置数据有效性），数据对比后续会详细讲。
 
 [13:56](https://www.bilibili.com/video/BV1fe411N7cJ?p=4&vd_source=74872e41274c3d29495fcb0f1ba131bd#t=836.415946)
-分列，智能分列
+分列，智能分列 ^kgirgj
 
 [14:48](https://www.bilibili.com/video/BV1fe411N7cJ?p=4&vd_source=74872e41274c3d29495fcb0f1ba131bd#t=888.130832)
 视图，冻结窗格
