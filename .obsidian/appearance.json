@@ -1,9 +1,9 @@
 {
-  "baseFontSize": 20,
+  "baseFontSize": 25,
   "translucency": false,
-  "theme": "obsidian",
-  "cssTheme": "",
+  "theme": "moonstone",
+  "cssTheme": "Blue Topaz",
   "accentColor": "",
-  "textFontFamily": "宋体,楷体",
+  "textFontFamily": "",
   "nativeMenus": true
 }
