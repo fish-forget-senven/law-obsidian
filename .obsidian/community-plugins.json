@@ -3,7 +3,6 @@
   "calendar",
   "note-refactor-obsidian",
   "obsidian-footnotes",
-  "media-extended",
   "mx-bili-plugin",
   "search-on-internet",
   "dataview",
@@ -19,5 +18,6 @@
   "editing-toolbar",
   "obsidian-excel-to-markdown-table",
   "obsidian-git",
-  "obsidian-custom-frames"
+  "obsidian-custom-frames",
+  "media-extended"
 ]

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"file","file":"实务/实务总结/社会保险缴纳计算/过渡性养老金.md","id":"1207f75e69668765","x":-192,"y":341,"width":400,"height":400},
+		{"type":"file","file":"理论/法律法规汇编/社会保险相关法律法规/国务院关于深化企业职工养老保险制度改革的通知.md","subpath":"#^lnpoz9","id":"9cc906bf34411c9d","x":305,"y":-197,"width":400,"height":400},
+		{"id":"035575e1969a19ba","x":305,"y":-669,"width":400,"height":400,"type":"file","file":"理论/法律法规汇编/社会保险相关法律法规/国务院关于深化企业职工养老保险制度改革的通知.md","subpath":"#^798596"},
+		{"id":"9b84930f32198cb3","x":-177,"y":-197,"width":400,"height":400,"type":"file","file":"理论/法律法规汇编/社会保险相关法律法规/国务院关于深化企业职工养老保险制度改革的通知.md"},
+		{"id":"4e6ad0e39fe8b148","x":-1318,"y":-197,"width":400,"height":400,"type":"file","file":"实务/实务总结/社会保险缴纳计算/视同缴费年限.md"},
+		{"id":"8e72bc6124e3d6ed","x":-722,"y":-197,"width":400,"height":400,"type":"file","file":"实务/实务总结/社会保险缴纳计算/视同缴费年限.md","subpath":"#^de7f79"},
+		{"id":"b56b5957b26147fe","x":-847,"y":-385,"width":250,"height":60,"type":"text","text":"1995年3月27日前"}
+	],
+	"edges":[
+		{"id":"c8b4a37b76dc72da","fromNode":"9b84930f32198cb3","fromSide":"right","toNode":"9cc906bf34411c9d","toSide":"left"},
+		{"id":"01f417f8e00b48ea","fromNode":"9b84930f32198cb3","fromSide":"top","toNode":"035575e1969a19ba","toSide":"left"},
+		{"id":"7e2821c38bcae087","fromNode":"4e6ad0e39fe8b148","fromSide":"right","toNode":"8e72bc6124e3d6ed","toSide":"left"},
+		{"id":"8b1bc87b001255b1","fromNode":"8e72bc6124e3d6ed","fromSide":"right","toNode":"9b84930f32198cb3","toSide":"left"},
+		{"id":"f8722584d3722083","fromNode":"b56b5957b26147fe","fromSide":"right","toNode":"9b84930f32198cb3","toSide":"top"}
+	]
+}

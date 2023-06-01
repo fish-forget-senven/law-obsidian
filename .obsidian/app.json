@@ -12,5 +12,7 @@
   "readableLineLength": false,
   "foldIndent": true,
   "autoPairBrackets": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "focusNewTab": true,
+  "alwaysUpdateLinks": true
 }
