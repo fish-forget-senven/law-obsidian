@@ -242,13 +242,18 @@
       "id": "Enhanced-editing:edit-duanhang",
       "name": "ZH增强编辑: 修复意外断行",
       "icon": "bot-glyph"
+    },
+    {
+      "id": "workspace:split-vertical",
+      "name": "左右分屏",
+      "icon": "lucide-separator-vertical"
     }
   ],
   "appendMethod": "workspace",
   "shouldShowMenuOnSelect": false,
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
-  "cMenuNumRows": 12,
+  "cMenuNumRows": 30,
   "cMenuWidth": 606,
   "cMenuFontColor": "#ff0000",
   "cMenuBackgroundColor": "#d3f8b6",
