@@ -1,12 +1,12 @@
 {
 	"nodes":[
-		{"type":"file","file":"理论/法律法规汇编/劳动法/中华人民共和国劳动合同法.md","subpath":"#^8w5fer","id":"d06901c2722c9b79","x":-220,"y":-180,"width":400,"height":303},
-		{"type":"file","file":"理论/法律法规汇编/劳动法/中华人民共和国劳动合同法.md","subpath":"#^y7jvhu","id":"c389d0c2ed110a0e","x":-220,"y":-520,"width":400,"height":248},
-		{"type":"file","file":"理论/法律法规汇编/劳动法/中华人民共和国劳动合同法.md","subpath":"#^de3ola","id":"a1e9d624bb3c075a","x":-220,"y":220,"width":520,"height":440},
-		{"type":"file","file":"理论/法律法规汇编/劳动法/中华人民共和国劳动合同法.md","subpath":"#^i8sr0m","id":"ccf53343f92a6c27","x":-220,"y":-1040,"width":480,"height":400},
-		{"type":"file","file":"理论/法律法规汇编/劳动法/中华人民共和国劳动合同法.md","subpath":"#^4e66om","id":"5eb2d081dc03767b","x":-260,"y":720,"width":640,"height":484},
+		{"type":"file","file":"理论/法律法规汇编/劳动法/劳动争议相关/中华人民共和国劳动合同法.md","subpath":"#^8w5fer","id":"d06901c2722c9b79","x":-220,"y":-180,"width":400,"height":303},
+		{"type":"file","file":"理论/法律法规汇编/劳动法/劳动争议相关/中华人民共和国劳动合同法.md","subpath":"#^y7jvhu","id":"c389d0c2ed110a0e","x":-220,"y":-520,"width":400,"height":248},
+		{"type":"file","file":"理论/法律法规汇编/劳动法/劳动争议相关/中华人民共和国劳动合同法.md","subpath":"#^de3ola","id":"a1e9d624bb3c075a","x":-220,"y":220,"width":520,"height":440},
+		{"type":"file","file":"理论/法律法规汇编/劳动法/劳动争议相关/中华人民共和国劳动合同法.md","subpath":"#^i8sr0m","id":"ccf53343f92a6c27","x":-220,"y":-1040,"width":480,"height":400},
+		{"type":"file","file":"理论/法律法规汇编/劳动法/劳动争议相关/中华人民共和国劳动合同法.md","subpath":"#^4e66om","id":"5eb2d081dc03767b","x":-260,"y":720,"width":640,"height":484},
 		{"type":"text","text":"此种情形无需经济补偿金\n1.劳资协商解除\n2.劳动者过错，用人单位单方解除\n3.劳动者的原因导致劳动合同无效","id":"9feb1c5c48fc2315","x":-1160,"y":-640,"width":375,"height":274},
-		{"type":"file","file":"理论/法律法规汇编/劳动法/中华人民共和国劳动合同法.md","subpath":"#^dhakod","id":"b533fcb03d536001","x":-1120,"y":804,"width":540,"height":400}
+		{"type":"file","file":"理论/法律法规汇编/劳动法/劳动争议相关/中华人民共和国劳动合同法.md","subpath":"#^dhakod","id":"b533fcb03d536001","x":-1120,"y":804,"width":540,"height":400}
 	],
 	"edges":[
 		{"id":"6e0a6bcfabe0d702","fromNode":"9feb1c5c48fc2315","fromSide":"right","toNode":"ccf53343f92a6c27","toSide":"left"},

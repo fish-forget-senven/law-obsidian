@@ -32,14 +32,6 @@
     }
   ],
   "file-explorer:new-file-in-new-pane": [],
-  "editor:toggle-highlight": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
   "media-extended:get-timestamp": [
     {
       "modifiers": [
@@ -62,5 +54,16 @@
       ],
       "key": "6"
     }
-  ]
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "Enhanced-editing:cuti-text": [],
+  "editor:open-link-in-new-window": [],
+  "Enhanced-editing:paste-text": []
 }

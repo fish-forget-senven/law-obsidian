@@ -12,7 +12,6 @@
   "obsidian-day-planner",
   "obsidian42-strange-new-worlds",
   "obsidian-style-settings",
-  "obsidian-outliner",
   "recent-files-obsidian",
   "obsidian42-brat",
   "obsidian-excel-to-markdown-table",
@@ -20,5 +19,8 @@
   "obsidian-custom-frames",
   "media-extended",
   "better-fn",
-  "editing-toolbar"
+  "editing-toolbar",
+  "vantage-obsidian",
+  "obsidian-outliner",
+  "ProxyGithub"
 ]
