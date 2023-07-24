@@ -35,3 +35,7 @@ git pull --allow-unrelated-histories
 ```
 
 这样我们就会发现它已经成功了，远程的readme文件已经被拉取了下来。之后我们再运行git push即可。由于我们已经将本地的master和远程的master取得了联系，我们只需要git push就可以了，不需要git push origin master了。
+
+解决：git SSL certificate problem: unable to get local issuer certificate
+
+`git config --global http.sslVerify false`
