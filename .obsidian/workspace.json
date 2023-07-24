@@ -34,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7c3864f4a697db59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git/git 语句.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(git)",
+                "query": "line:(sev)",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git 语句.md",
+                "file": "理论/微信公众号摘录/劳动争议/专题研究｜工伤停工留薪期中的疑难问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git 语句.md"
+                "file": "理论/微信公众号摘录/劳动争议/专题研究｜工伤停工留薪期中的疑难问题.md"
               }
             }
           },
@@ -159,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git 语句.md",
+                "file": "理论/微信公众号摘录/劳动争议/专题研究｜工伤停工留薪期中的疑难问题.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -227,8 +214,10 @@
       "vantage-obsidian:Vantage - Advanced search builder": false
     }
   },
-  "active": "7c3864f4a697db59",
+  "active": "7901db57d5e742d8",
   "lastOpenFiles": [
+    "法律常用网站、电话、信息等/账号、密码、电话、案号等.md",
+    "git/git 语句.md",
     "git/【狂神说Java】Git最新教程通俗易懂/6、git的必要配置.md",
     "法律常用网站、电话、信息等/法律网站.md",
     "实务/业务信息精简/劳动争议/劳动合同的订立及效力.md",
@@ -252,9 +241,7 @@
     "理论/课堂笔记/【游本春】【20小时200讲】劳动纠纷维权指南及企业风控管控宝典/劳动合同签订维权宝典及风险控制宝典/38.连续订立两次固定期限劳动合同后，是否必须签订无固定期限劳动合同？.md",
     "实务/业务信息精简/劳动争议/试用期.md",
     "实务/业务信息精简/劳动争议/劳动争议仲裁前置.md",
-    "法律常用网站、电话、信息等/账号、密码、电话、案号等.md",
     "实务/业务信息精简/劳动争议/劳动关系的确认.md",
-    "理论/法律法规汇编/民商法/民法典/第七编 侵权责任.md",
     "理论/法律法规汇编/海事法",
     "实务/业务信息精简/物业纠纷（安徽）",
     "实习指导文件/承义（芜湖）报销单（格式模板）2021 04 25 - 副本~8FFA6.tmp",
