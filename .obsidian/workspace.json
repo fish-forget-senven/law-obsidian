@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "法律常用网站、电话、信息等/账号、密码、电话、案号等.md",
+                "file": "理论/法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fish",
+                "query": "path:人身损害",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "法律常用网站、电话、信息等/账号、密码、电话、案号等.md",
+                "file": "理论/法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "法律常用网站、电话、信息等/账号、密码、电话、案号等.md"
+                "file": "理论/法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "法律常用网站、电话、信息等/账号、密码、电话、案号等.md",
+                "file": "理论/法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于审理人身损害赔偿案件适用法律若干问题的解释.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -201,9 +201,9 @@
   },
   "active": "307bb23ac6538571",
   "lastOpenFiles": [
+    "法律常用网站、电话、信息等/账号、密码、电话、案号等.md",
     "理论/法律法规汇编/安徽省地方规定/安徽省高级人民法院审理人身损害赔偿案件若干问题的指导意见.md",
     "法律问题/人身损害案件医保走的费用能否要求对方赔偿.md",
-    "法律常用网站、电话、信息等/账号、密码、电话、案号等.md",
     "理论/微信读书/中国社会保险制度 岳宗福/社会保险简论/第二节 社会保险发展历程.md",
     "理论/课堂笔记/交通诉讼全流程（李斌律师）/第7讲 损害赔偿实务解析（一）.md",
     "理论/法律法规汇编/劳动法/工伤/安徽省实施《工伤保险条例》办法.md",
