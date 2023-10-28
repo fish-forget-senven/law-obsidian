@@ -176,7 +176,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -297,20 +298,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-custom-frames:Open weread": false,
       "canvas:新建白板": false,
-      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "obsidian42-brat:BRAT": false,
-      "vantage-obsidian:Vantage - Advanced search builder": false
+      "templater-obsidian:Templater": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b57a777019d28a35",
+  "active": "bd234484bff39612",
   "lastOpenFiles": [
     "理论/法律法规汇编/民商法/民法典/第三编 合同.md",
     "理论/实务书籍/法天使三大本/合同起草审查指南：三观四步法（第4版2023）/宏观——交易结构篇/2.6“合同程序”/2.6.1 “合同程序”类型说明.md",
