@@ -112,13 +112,8 @@
             "id": "04414d3b0e737e29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "法律常用网站、电话、信息等/法律网站.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -177,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,7 +200,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "理论/实务书籍/法天使三大本/合同起草审查指南：三观四步法（第4版2023）/宏观——交易结构篇/2.6“合同程序”/2.6.1 “合同程序”类型说明.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,9 +215,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "理论/实务书籍/法天使三大本/合同起草审查指南：三观四步法（第4版2023）/宏观——交易结构篇/2.6“合同程序”/2.6.1 “合同程序”类型说明.md"
-              }
+              "state": {}
             }
           },
           {
@@ -232,7 +224,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "理论/实务书籍/法天使三大本/合同起草审查指南：三观四步法（第4版2023）/宏观——交易结构篇/2.6“合同程序”/2.6.1 “合同程序”类型说明.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -306,13 +297,16 @@
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
       "templater-obsidian:Templater": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-custom-frames:Open weread": false,
+      "vantage-obsidian:Vantage - Advanced search builder": false
     }
   },
-  "active": "bd234484bff39612",
+  "active": "04414d3b0e737e29",
   "lastOpenFiles": [
-    "理论/法律法规汇编/民商法/民法典/第三编 合同.md",
+    "理论/实务书籍/建设工程/笔记/法院如何确认未签订施工合同的联合开发商承担支付工程款的连带债务.md",
     "理论/实务书籍/法天使三大本/合同起草审查指南：三观四步法（第4版2023）/宏观——交易结构篇/2.6“合同程序”/2.6.1 “合同程序”类型说明.md",
+    "理论/法律法规汇编/民商法/民法典/第三编 合同.md",
     "法律常用网站、电话、信息等/法律网站.md",
     "理论/法律法规汇编/民商法/民法典配套司法解释/最高人民法院关于审理物业服务纠纷案件适用法律若干问题的解释（2021.1.1）.md",
     "理论/法律法规汇编/民商法/业主大会和业主委员会指导规则.md",
@@ -336,7 +330,6 @@
     "理论/法律法规汇编/民商法/民法典/第六编 继承.md",
     "理论/课堂笔记/民法笔记/金可可民法/民法总则/法律事实、法律行为与代理/法律行为/财产行为、非财产行为（亲属行为、继承行为）.md",
     "理论/课堂笔记/顶尖婚姻家事律师64个绝密锦囊（张静）/第3讲：婚姻家事律师接案完全指南.md",
-    "理论/课堂笔记/交通诉讼全流程（李斌律师）/第9讲 损害赔偿实务解析（三）.md",
     "实习指导文件/承义（芜湖）报销单（格式模板）2021 04 25 - 副本~950A0.tmp",
     "理论/课堂笔记/执行案件",
     "理论/法律名词/不动产",
