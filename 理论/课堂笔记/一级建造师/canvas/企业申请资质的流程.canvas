@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"8ebf16b4e7977e97","x":-275,"y":-109,"width":250,"height":60,"type":"text","text":"企业"},
+		{"id":"7555467b331ad92f","x":182,"y":-109,"width":408,"height":60,"type":"text","text":"省人民政府住房城乡建设主管部门"},
+		{"id":"a7fbb76984883b80","x":786,"y":-104,"width":402,"height":50,"type":"text","text":"国务院住房城乡建设主管部门"},
+		{"id":"a36c88dfd294a83b","x":1391,"y":-119,"width":359,"height":81,"type":"text","text":"自受理之日起，20个工作日内完成审查"},
+		{"id":"d6e2a81cd0465888","x":1924,"y":-117,"width":359,"height":77,"type":"text","text":"自作出决定之日起10日内公告审批结果"}
+	],
+	"edges":[
+		{"id":"6c66fcb7c9014868","fromNode":"8ebf16b4e7977e97","fromSide":"right","toNode":"7555467b331ad92f","toSide":"left","label":"申请资质"},
+		{"id":"8d7c2314b7022ab6","fromNode":"7555467b331ad92f","fromSide":"right","toNode":"a7fbb76984883b80","toSide":"left","label":"5日内"},
+		{"id":"94b60d7e07994deb","fromNode":"a7fbb76984883b80","fromSide":"right","toNode":"a36c88dfd294a83b","toSide":"left","label":"受理"},
+		{"id":"66fcbbd35c729add","fromNode":"a36c88dfd294a83b","fromSide":"right","toNode":"d6e2a81cd0465888","toSide":"left"},
+		{"id":"ef83ea320bcc71ab","fromNode":"a7fbb76984883b80","fromSide":"bottom","toNode":"8ebf16b4e7977e97","toSide":"bottom","label":"材料不符，5日内一次告知，逾期不告知的，自收到申请材料之日起即为受理。"}
+	]
+}

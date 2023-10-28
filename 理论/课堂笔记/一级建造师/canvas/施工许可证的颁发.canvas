@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"建设单位","id":"b0a0892703ea1981","x":-295,"y":-121,"width":250,"height":60},
+		{"type":"text","text":"建设行政主管部门","id":"7069a23f244bdf35","x":172,"y":-121,"width":250,"height":60},
+		{"type":"text","text":"符合条件","id":"3beb52cfcee21381","x":484,"y":-339,"width":250,"height":60},
+		{"type":"text","text":"不符合条件","id":"2dac9ecbc3be78af","x":484,"y":119,"width":250,"height":60},
+		{"type":"text","text":"应当自收到申请之日起7日内，颁发施工许可证。","id":"9453e70a5c59bdcb","x":879,"y":-356,"width":330,"height":95},
+		{"type":"text","text":"当场能发现的问题（文件不全或失效）——应当场或5日内一次性告知建设单位需要补正的全部内容；审批时间可以自证明文件补全后相应顺延。","id":"40d5099e476c4fb4","x":879,"y":-136,"width":542,"height":164},
+		{"type":"text","text":"当场不能发现的问题——应当自收到申请之日起7日内通知建设单位，并说明理由。","id":"29a8508aa6f51313","x":879,"y":261,"width":379,"height":148}
+	],
+	"edges":[
+		{"id":"5d6129f6782a821a","fromNode":"b0a0892703ea1981","fromSide":"right","toNode":"7069a23f244bdf35","toSide":"left","label":"提交材料"},
+		{"id":"f01ef7d3acb0534e","fromNode":"7069a23f244bdf35","fromSide":"right","toNode":"3beb52cfcee21381","toSide":"left"},
+		{"id":"c335c9d331d98d06","fromNode":"7069a23f244bdf35","fromSide":"right","toNode":"2dac9ecbc3be78af","toSide":"left"},
+		{"id":"b126f5f65d026b8e","fromNode":"3beb52cfcee21381","fromSide":"right","toNode":"9453e70a5c59bdcb","toSide":"left"},
+		{"id":"745d1f0228f80cae","fromNode":"2dac9ecbc3be78af","fromSide":"right","toNode":"40d5099e476c4fb4","toSide":"left"},
+		{"id":"2c7b3d2361f0eb2b","fromNode":"2dac9ecbc3be78af","fromSide":"right","toNode":"29a8508aa6f51313","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"83561650ef419eae","x":524,"y":-183,"width":319,"height":54,"type":"text","text":"提交资格预审文件截止日"},
+		{"id":"a71ca36b7f54d671","x":-365,"y":-186,"width":250,"height":60,"type":"text","text":"发售资格预审文件"},
+		{"id":"d602512f21ea6e2f","x":106,"y":-186,"width":250,"height":60,"type":"text","text":"停止发售"}
+	],
+	"edges":[
+		{"id":"662a1467a1c3fd7e","fromNode":"a71ca36b7f54d671","fromSide":"right","toNode":"d602512f21ea6e2f","toSide":"left","label":"≥5天"},
+		{"id":"aa9a1c8db54e3d03","fromNode":"d602512f21ea6e2f","fromSide":"right","toNode":"83561650ef419eae","toSide":"left","label":"≥5天"}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"b3897b9ad5f610ae","x":-72,"y":-119,"width":162,"height":60,"type":"text","text":"停止发售"},
+		{"id":"c1ab5b9b3b9bf4e7","x":-516,"y":-119,"width":250,"height":60,"type":"text","text":"发售招标文件"},
+		{"id":"d5f8fef3bd13f3cf","x":278,"y":-119,"width":142,"height":60,"type":"text","text":"澄清修改"},
+		{"id":"f70fd08d7d4ca2cd","x":598,"y":-170,"width":312,"height":163,"type":"text","text":"开标日\n投标截止日\n投标有效期起点\n投标保证金有效期起点"},
+		{"id":"d97949e70ad5baf3","x":1022,"y":-119,"width":250,"height":60,"type":"text","text":"公示结果"},
+		{"id":"9ecdd00a59663306","x":1461,"y":-133,"width":250,"height":90,"type":"text","text":"公示结束\n发出中标通知书"},
+		{"id":"c18dffa0c8a95790","x":1899,"y":-118,"width":250,"height":60,"type":"text","text":"签订合同"},
+		{"id":"f780d6128d24b37e","x":2339,"y":-119,"width":250,"height":60,"type":"text","text":"退还投标保证金"}
+	],
+	"edges":[
+		{"id":"48694541b54d9bfd","fromNode":"c1ab5b9b3b9bf4e7","fromSide":"right","toNode":"b3897b9ad5f610ae","toSide":"left","label":"≥5天"},
+		{"id":"a5ad645cca16b046","fromNode":"b3897b9ad5f610ae","fromSide":"right","toNode":"d5f8fef3bd13f3cf","toSide":"left"},
+		{"id":"28e98ee6b7d4132c","fromNode":"d5f8fef3bd13f3cf","fromSide":"right","toNode":"f70fd08d7d4ca2cd","toSide":"left","label":"≥15天"},
+		{"id":"64dc8e0128812b05","fromNode":"c1ab5b9b3b9bf4e7","fromSide":"top","toNode":"f70fd08d7d4ca2cd","toSide":"top","label":"≥20天"},
+		{"id":"c6b47d81f234f64d","fromNode":"f70fd08d7d4ca2cd","fromSide":"right","toNode":"d97949e70ad5baf3","toSide":"left"},
+		{"id":"3e7557c195a96400","fromNode":"d97949e70ad5baf3","fromSide":"right","toNode":"9ecdd00a59663306","toSide":"left","label":"≥3天"},
+		{"id":"85fa65d33f0544a2","fromNode":"9ecdd00a59663306","fromSide":"right","toNode":"c18dffa0c8a95790","toSide":"left","label":"≤30天"},
+		{"id":"857dc298a728841b","fromNode":"c18dffa0c8a95790","fromSide":"right","toNode":"f780d6128d24b37e","toSide":"left","label":"≤5天"}
+	]
+}

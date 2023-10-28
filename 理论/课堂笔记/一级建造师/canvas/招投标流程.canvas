@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"da68589ca49cf6e2","x":2306,"y":-360,"width":400,"height":750,"type":"group","label":"中标"},
+		{"id":"c396ad3d6784986f","x":1602,"y":-280,"width":424,"height":590,"type":"group","label":"评标"},
+		{"id":"a6f627e4178bf742","x":312,"y":-357,"width":329,"height":743,"type":"group","label":"投标"},
+		{"id":"fea5d53f9fdc69a3","x":887,"y":-287,"width":400,"height":603,"type":"group","label":"开标"},
+		{"id":"107dc220b70fee4c","x":-369,"y":-206,"width":441,"height":441,"type":"group","label":"招标"},
+		{"id":"411b2339672d9d6a","x":-287,"y":-166,"width":250,"height":60,"type":"text","text":"招标范围、规模"},
+		{"id":"3a863211ea2454d8","x":-287,"y":-65,"width":250,"height":60,"type":"text","text":"招标方式"},
+		{"id":"f22fb591aec59d1f","x":-287,"y":44,"width":250,"height":60,"type":"text","text":"交易场所"},
+		{"id":"4e2d20732fe8f988","x":-287,"y":129,"width":250,"height":60,"type":"text","text":"招标流程"},
+		{"id":"4b0ee195e6684ae7","x":975,"y":-201,"width":250,"height":60,"type":"text","text":"开标时间地点"},
+		{"id":"71ac74d981e46f7f","x":975,"y":-25,"width":250,"height":60,"type":"text","text":"查密封情况"},
+		{"id":"304f6d63c955d7b2","x":975,"y":166,"width":250,"height":60,"type":"text","text":"唱标"},
+		{"id":"2a729a3c92ed2d16","x":347,"y":-19,"width":250,"height":60,"type":"text","text":"投标有效期"},
+		{"id":"0a7db9481ca5abdc","x":347,"y":82,"width":250,"height":60,"type":"text","text":"联合体投标"},
+		{"id":"c80edede2affcf57","x":347,"y":189,"width":250,"height":60,"type":"text","text":"资格预审"},
+		{"id":"5d81e057f770b302","x":347,"y":292,"width":250,"height":60,"type":"text","text":"串通投标"},
+		{"id":"5f07cee0944d7362","x":347,"y":-323,"width":250,"height":60,"type":"text","text":"投标人"},
+		{"id":"0fea821a44463b53","x":347,"y":-225,"width":250,"height":60,"type":"text","text":"投标文件"},
+		{"id":"8b19141de1f63a65","x":347,"y":-119,"width":250,"height":60,"type":"text","text":"投标保证金"},
+		{"id":"0267b47c76f7f77d","x":1708,"y":-1,"width":250,"height":60,"type":"text","text":"资格后审"},
+		{"id":"481f1e83c4a91a12","x":1708,"y":160,"width":250,"height":60,"type":"text","text":"废标的情形"},
+		{"id":"4528371f662ada28","x":1708,"y":-175,"width":250,"height":60,"type":"text","text":"评标委员会"},
+		{"id":"f6dcb031e3240125","x":2382,"y":-272,"width":250,"height":60,"type":"text","text":"确定中标人"},
+		{"id":"ba03726ec48165b0","x":2382,"y":-125,"width":250,"height":60,"type":"text","text":"中标条件"},
+		{"id":"4be3f1f2876e0dd7","x":2382,"y":19,"width":250,"height":60,"type":"text","text":"签订合同"},
+		{"id":"f48fe526cf1e04c5","x":2382,"y":180,"width":250,"height":60,"type":"text","text":"履约保证金"},
+		{"id":"7ac56270eede05af","x":2382,"y":300,"width":250,"height":60,"type":"text","text":"投诉处理"}
+	],
+	"edges":[
+		{"id":"e124a65a1424f995","fromNode":"107dc220b70fee4c","fromSide":"right","toNode":"a6f627e4178bf742","toSide":"left"},
+		{"id":"e3b5f81164b911f6","fromNode":"a6f627e4178bf742","fromSide":"right","toNode":"fea5d53f9fdc69a3","toSide":"left"},
+		{"id":"bbd9f995cb7e7f04","fromNode":"fea5d53f9fdc69a3","fromSide":"right","toNode":"c396ad3d6784986f","toSide":"left"},
+		{"id":"24b080427933c3cf","fromNode":"c396ad3d6784986f","fromSide":"right","toNode":"da68589ca49cf6e2","toSide":"left"}
+	]
+}

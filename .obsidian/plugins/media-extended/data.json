@@ -1,7 +1,7 @@
 {
   "mediaFragmentsEmbed": true,
   "timestampLink": true,
-  "extendedImageEmbedSyntax": true,
+  "extendedImageEmbedSyntax": false,
   "thumbnailPlaceholder": false,
   "useYoutubeControls": false,
   "interalBiliPlayback": true,
@@ -40,7 +40,7 @@
     "pip": false,
     "fullscreen": true
   },
-  "timestampTemplate": "\n- {{TIMESTAMP}} <% tp.file.cursor(0) %>",
+  "timestampTemplate": "\n{{TIMESTAMP}} ",
   "timestampOffset": 0,
   "hideEmbedControls": false
 }
