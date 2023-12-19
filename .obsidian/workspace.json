@@ -63,14 +63,12 @@
             "id": "0973db189243f9dd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "理论/canvas/保险.canvas",
-                "viewState": {
-                  "x": 629.262602410721,
-                  "y": 3467.7383235304796,
-                  "zoom": -1.333333333333334
-                }
+                "file": "WPS操作技巧/EXCEL技巧/通配符.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -104,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:国务院关于建立统一的企业职工基本养老保险制度的决定",
+                "query": "path:通配",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -129,12 +127,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "7653655aa5d8a80a",
@@ -158,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "理论/canvas/保险.canvas",
+                "file": "WPS操作技巧/EXCEL技巧/通配符.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "理论/canvas/保险.canvas"
+                "file": "WPS操作技巧/EXCEL技巧/通配符.md"
               }
             }
           },
@@ -185,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "理论/canvas/保险.canvas",
+                "file": "WPS操作技巧/EXCEL技巧/通配符.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -264,48 +262,11 @@
       "vantage-obsidian:Vantage - Advanced search builder": false
     }
   },
-  "floating": {
-    "id": "3f5cb7d53bb63127",
-    "type": "floating",
-    "children": [
-      {
-        "id": "cd97f8338c33a5b5",
-        "type": "window",
-        "children": [
-          {
-            "id": "05a1cb5bbcf2ceca",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "53af0aa1c25e1ef5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "实务/实务总结/社会保险缴纳计算/过渡性养老金.md",
-                    "mode": "preview",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 720,
-        "height": 852,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "0973db189243f9dd",
   "lastOpenFiles": [
-    "实务/实务总结/社会保险缴纳计算/过渡性养老金.md",
+    "WPS操作技巧/WORD技巧/通配符.md",
     "理论/canvas/保险.canvas",
+    "实务/实务总结/社会保险缴纳计算/过渡性养老金.md",
     "理论/canvas/过渡性养老金、视同缴费年限.canvas",
     "实务/canvas/劳动与社会保障法/体系.canvas",
     "实务/canvas/劳动与社会保障法/法律法规.canvas",
