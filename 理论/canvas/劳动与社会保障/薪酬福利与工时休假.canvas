@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"346de2ceaf7634ee","type":"file","file":"实务/业务信息精简/劳动争议/薪酬福利与工时休假.md","subpath":"#（一）工时制度","x":-596,"y":-297,"width":400,"height":400},
+		{"id":"b70fcd92b0303974","type":"link","url":"https://mp.weixin.qq.com/s/PUMURRFMVP7Byvse8icQ4w","x":-596,"y":247,"width":400,"height":400},
+		{"id":"e41e88a836052060","type":"file","file":"理论/法律法规汇编/劳动法/劳动争议相关/中华人民共和国劳动合同法实施条例.md","subpath":"#^ae4pl0","x":134,"y":247,"width":400,"height":400},
+		{"id":"748e58425b777b43","type":"file","file":"实务/业务信息精简/劳动争议/薪酬福利与工时休假.md","subpath":"#（二）工资","x":134,"y":-297,"width":400,"height":400},
+		{"id":"1f1d4563c8718972","type":"file","file":"实务/业务信息精简/劳动争议/薪酬福利与工时休假.md","subpath":"#二、农民工工资保障","x":747,"y":-297,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"74c01f84320cd80d","fromNode":"e41e88a836052060","fromSide":"left","toNode":"b70fcd92b0303974","toSide":"right","label":"应得工资包括五险一金、个税"}
+	]
+}

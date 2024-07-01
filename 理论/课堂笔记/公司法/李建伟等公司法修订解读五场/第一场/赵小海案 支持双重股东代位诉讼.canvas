@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c77a5c9d91baeeeb","x":-293,"y":-156,"width":250,"height":60,"type":"text","text":"赵小海（原告）"},
+		{"id":"e86d163cb519202d","x":111,"y":-156,"width":250,"height":60,"type":"text","text":"海航控股公司（被告）"},
+		{"id":"ff5895f183b64658","x":-97,"y":37,"width":270,"height":60,"type":"text","text":"海航投资公司（第三人）"},
+		{"id":"b8d83e544a3ab827","x":-99,"y":230,"width":273,"height":60,"type":"text","text":"皇城酒店公司（第三人）"}
+	],
+	"edges":[
+		{"id":"aee37ab634270b7a","fromNode":"c77a5c9d91baeeeb","fromSide":"bottom","toNode":"ff5895f183b64658","toSide":"top","label":"40%"},
+		{"id":"12c3ac3c802ea5b2","fromNode":"e86d163cb519202d","fromSide":"bottom","toNode":"ff5895f183b64658","toSide":"top","label":"60%"},
+		{"id":"13652216e71befa2","fromNode":"ff5895f183b64658","fromSide":"bottom","toNode":"b8d83e544a3ab827","toSide":"top","label":"100%"}
+	]
+}

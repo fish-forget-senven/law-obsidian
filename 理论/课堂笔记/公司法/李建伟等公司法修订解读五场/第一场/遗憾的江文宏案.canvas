@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"7a66ceb74a172d7e","type":"text","text":"吴金辉（原告）","x":-300,"y":-174,"width":250,"height":60,"color":"4"},
+		{"id":"ef771a2ed723e45f","type":"text","text":"媚若诗公司","x":-90,"y":41,"width":250,"height":60},
+		{"id":"a03b32d375c06ce8","type":"text","text":"寇微尔公司","x":-90,"y":266,"width":250,"height":60},
+		{"id":"945a40aa64ec229c","type":"text","text":"江文宏[寇微尔公司法人代表、经营控制人]","x":131,"y":-174,"width":250,"height":60},
+		{"id":"0e2bd4c438a96878","type":"text","text":"嘉慈公司","x":475,"y":266,"width":250,"height":60},
+		{"id":"1c347a1e4af3726f","type":"text","text":"原告被驳回的原因之一，缺乏双重诉讼的法律依据","x":-300,"y":414,"width":303,"height":80}
+	],
+	"edges":[
+		{"id":"f3679eccf5cacb4b","fromNode":"a03b32d375c06ce8","fromSide":"right","toNode":"0e2bd4c438a96878","toSide":"left","label":"怀疑被吴贱卖土地500多万"},
+		{"id":"11687562f75c7456","fromNode":"7a66ceb74a172d7e","fromSide":"bottom","toNode":"ef771a2ed723e45f","toSide":"top","label":"50%"},
+		{"id":"c08e304888009f02","fromNode":"945a40aa64ec229c","fromSide":"bottom","toNode":"ef771a2ed723e45f","toSide":"top","label":"50%"},
+		{"id":"37a71ae00a9c0ef9","fromNode":"ef771a2ed723e45f","fromSide":"bottom","toNode":"a03b32d375c06ce8","toSide":"top","label":"100%"},
+		{"id":"a37bcc4c51610ace","fromNode":"7a66ceb74a172d7e","fromSide":"left","toNode":"1c347a1e4af3726f","toSide":"left"}
+	]
+}

@@ -1,8 +1,8 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 21,
   "translucency": false,
   "theme": "moonstone",
-  "cssTheme": "Minimal",
+  "cssTheme": "",
   "accentColor": "",
   "textFontFamily": "",
   "nativeMenus": true

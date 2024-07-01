@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"0ebcc9256b210bf8","x":-173,"y":-16,"width":250,"height":60,"type":"text","text":"C co"},
+		{"id":"c463ccf8a7081782","x":-423,"y":-201,"width":250,"height":60,"type":"text","text":"A co"},
+		{"id":"0bbcbf2cccb9c70a","x":84,"y":-201,"width":250,"height":60,"color":"4","type":"text","text":"B co"},
+		{"id":"4fc805e79ebf2759","x":136,"y":194,"width":250,"height":60,"type":"text","text":"董事张三、李四"},
+		{"id":"b63300d2af8e2b4b","x":-180,"y":194,"width":264,"height":60,"color":"3","type":"text","text":"D co"}
+	],
+	"edges":[
+		{"id":"40971e64cc85fdaa","fromNode":"c463ccf8a7081782","fromSide":"bottom","toNode":"0ebcc9256b210bf8","toSide":"top","label":"持有C89%股权"},
+		{"id":"1d83d063d23bf933","fromNode":"0bbcbf2cccb9c70a","fromSide":"bottom","toNode":"0ebcc9256b210bf8","toSide":"top","label":"持有C11%股权"},
+		{"id":"41e9f6d77b5b715d","fromNode":"0ebcc9256b210bf8","fromSide":"bottom","toNode":"b63300d2af8e2b4b","toSide":"top","label":"100%"},
+		{"id":"2a15e57a2a3d8245","fromNode":"0ebcc9256b210bf8","fromSide":"bottom","toNode":"4fc805e79ebf2759","toSide":"top"}
+	]
+}

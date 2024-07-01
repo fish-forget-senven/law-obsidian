@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c3983b5652be677b","type":"link","url":"https://wenshu.court.gov.cn/","x":-558,"y":-252,"width":1275,"height":441},
+		{"id":"6a484775203558b7","type":"link","url":"http://www.ahlawyer.com.cn/","x":809,"y":-234,"width":495,"height":423},
+		{"id":"54fa8062b09fbdd4","x":1490,"y":-234,"width":546,"height":393,"type":"link","url":"https://wen.xstsg.top/"},
+		{"id":"51afdd7b68a7b6e0","x":2158,"y":-82,"width":281,"height":90,"type":"text","text":"中英文卡号：712108511密码：892870"}
+	],
+	"edges":[
+		{"id":"3f333e0ad260bb48","fromNode":"54fa8062b09fbdd4","fromSide":"right","toNode":"51afdd7b68a7b6e0","toSide":"left"}
+	]
+}
